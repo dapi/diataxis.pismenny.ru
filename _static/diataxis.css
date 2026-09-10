@@ -259,6 +259,38 @@ div.lined div.sd-col:nth-child(2n) {border-bottom: 1px solid var(--orange);}
     overflow-x: visible;
 }
 table.docutils {box-shadow: none;}
+
+.translation-attribution {
+    border-top: 1px solid var(--color-background-border);
+    color: var(--color-foreground-muted);
+    font-size: 0.82rem;
+    line-height: 1.55;
+    margin-top: 2rem;
+    padding: 1rem 0 0;
+}
+
+.translation-attribution a {
+    color: inherit;
+    text-decoration: underline;
+    text-underline-offset: 0.15em;
+}
+
+/* --------- translation attribution --------- */
+
+.translation-attribution {
+    border-top: 1px solid var(--color-background-border);
+    color: var(--color-foreground-muted);
+    font-size: 0.8rem;
+    line-height: 1.55;
+    margin-top: 2rem;
+    padding: 1rem 0;
+}
+
+.translation-attribution a {
+    color: inherit;
+    text-decoration: underline;
+    text-underline-offset: 0.18em;
+}
 table.docutils th.head {padding: .5rem 0;}
 table.docutils td, table.docutils th {border-right: 1px solid var(--orange);}
 table.docutils th.stub {text-align: right;}

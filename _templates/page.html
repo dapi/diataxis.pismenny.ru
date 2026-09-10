@@ -2,6 +2,7 @@
 
   {% block site_meta %}
   <meta name="author" content="Daniele Procida">
+  <meta name="translator" content="Danil Pismenny">
   {{ super() }}
   {% endblock %}
 
@@ -59,6 +60,22 @@
         </div>
       </a>
     {%- endif %}
+  </div>
+  <div class="translation-attribution">
+    {% if language == "ru" %}
+      Неофициальный машинный русский перевод · редакторская вычитка продолжается ·
+      <a href="https://diataxis.fr/">оригинала Diátaxis</a>,
+      созданного <a href="https://vurt.org/">Daniele Procida</a>.
+      <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> ·
+      <a href="https://github.com/dapi/diataxis.pismenny.ru">исходники перевода</a> ·
+      <a href="https://pismenny.ru/">Данил Письменный</a>
+    {% else %}
+      English original by <a href="https://vurt.org/">Daniele Procida</a>.
+      <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> ·
+      <a href="https://github.com/evildmp/diataxis-documentation-framework">original source</a> ·
+      <a href="https://github.com/dapi/diataxis.pismenny.ru">Russian translation source</a> ·
+      <a href="https://pismenny.ru/">Danil Pismenny</a>
+    {% endif %}
   </div>
   <div class="bottom-of-page">
     <div class="left-details">

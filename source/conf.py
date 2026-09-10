@@ -6,6 +6,7 @@ sys.path.insert(0, os.path.abspath("../extensions"))
 html_title = full_title = project = "Diátaxis"
 copyright = "Daniele Procida"
 author = "Daniele Procida"
+html_baseurl = "https://diataxis.pismenny.ru"
 
 # -- General configuration ---------------------------------------------------
 
@@ -43,16 +44,13 @@ html_css_files = ["diataxis.css"]
 html_js_files = ["language-switcher.js"]
 html_context = {
     "language_switcher": [
+        ["ru", "Русский"],
         ["en", "English"],
-        ["pl", "Polski"],
-        # ["fr", "Français"],
-        # ["it", "Italiano"],
-        # ["pt_BR", "Português"],
-        # ["zh_CN", "简体中文"],
-        # ["de", "Deutsche"],
-        # ["ja", "日本語"],
     ],
-    "default_language": "en",
+    "default_language": "ru",
+    "display_github": True,
+    "github_user": "dapi",
+    "github_repo": "diataxis.pismenny.ru",
 }
 html_sidebars = {
     "**": [
@@ -95,6 +93,6 @@ gettext_location = True
 
 # -- Atom feed configuration ---------------------------------------------------
 
-atom_feed_base_url = "https://diataxis.fr"
+atom_feed_base_url = "https://diataxis.pismenny.ru"
 atom_feed_source = "news"
 atom_feed_author = author

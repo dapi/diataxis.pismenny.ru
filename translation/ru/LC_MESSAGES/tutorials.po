@@ -2,7 +2,7 @@
 # Copyright (C) Daniele Procida
 # This file is distributed under the same license as the Diátaxis package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
@@ -10,28 +10,33 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-08-01 12:29+0200\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
-"Language-Team: Russian (https://app.transifex.com/danieleprocida/teams/120528/ru/)\n"
+"Last-Translator: Danil Pismenny <danil@pismenny.ru>\n"
+"Language-Team: Russian\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ru\n"
 "Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
 
 #: ../../source/tutorials.rst:4
 msgid "Tutorials"
-msgstr ""
+msgstr "Учебные руководства"
 
 #: ../../source/tutorials.rst:7
 msgid ""
 "A tutorial is an **experience** that takes place under the guidance of a "
 "tutor. A tutorial is always **learning-oriented**."
 msgstr ""
+"Учебник - это **опыт**, который проходит под руководством репетитора. "
+"Учебник всегда **ориентированный на обучение**."
 
 #: ../../source/tutorials.rst:10
 msgid ""
 "A tutorial is a *practical activity*, in which the student learns by doing "
 "something meaningful, towards some achievable goal."
 msgstr ""
+"Учебник - это *практическая деятельность*, в котором ученик учится, делая "
+"что-то значимое, к какой-то достижимой цели."
 
 #: ../../source/tutorials.rst:12
 msgid ""
@@ -39,16 +44,21 @@ msgid ""
 "study. Its purpose is not to help the user get something done, but to help "
 "them learn."
 msgstr ""
+"Учебник служит для пользователя *приобретение* навыков и знаний - их "
+"изучение. Его цель не в том, чтобы помочь пользователю что-то сделать, а в "
+"том, чтобы помочь ему учиться."
 
 #: ../../source/tutorials.rst:14
 msgid ""
 "Tutorials - learning-oriented guides that describe practical steps and are "
 "intended to serve our study."
 msgstr ""
+"Учебные пособия - ориентированные на обучение руководства, которые описывают"
+" практические шаги и предназначены для обслуживания нашего исследования."
 
 #: ../../source/tutorials.rst:18
 msgid "A tutorial in other words is a lesson."
-msgstr ""
+msgstr "Иными словами, урок – это урок."
 
 #: ../../source/tutorials.rst:20
 msgid ""
@@ -59,10 +69,16 @@ msgid ""
 "and how to interact with them. They will learn the names of things, the use "
 "of tools, workflows, concepts, commands. And so on."
 msgstr ""
+"Важно понимать, что в то время как студент будет учиться, делая, что студент"
+" *делать* не обязательно, что они *учиться*. Поступая так, они приобретут "
+"теоретические знания (т.е. факты), понимание, знакомство. Они узнают, как "
+"вещи связаны друг с другом и взаимодействуют, и как взаимодействовать с "
+"ними. Они узнают названия вещей, использование инструментов, рабочие "
+"процессы, концепции, команды. И так далее."
 
 #: ../../source/tutorials.rst:27
 msgid "The tutorial as a lesson"
-msgstr ""
+msgstr "Учебник как урок"
 
 #: ../../source/tutorials.rst:29
 msgid ""
@@ -70,6 +86,9 @@ msgid ""
 "learning of this kind, *learning takes place as the pupil applies themself "
 "to tasks under the instructor's guidance*."
 msgstr ""
+"Урок влечет за собой отношения между учителем и учеником. Во всем обучении "
+"такого рода *Обучение происходит, когда ученик применяет себя к задачам под "
+"руководством инструктора.*."
 
 #: ../../source/tutorials.rst:31
 msgid ""
@@ -77,20 +96,25 @@ msgid ""
 "is what the learner does and what happens. By contrast, the teacher's "
 "explanations and recitations of fact are far less important."
 msgstr ""
+"Урок - это *опыт обучения*. В опыте обучения важно то, что делает ученик и "
+"что происходит. Напротив, объяснения и декламации учителя гораздо менее "
+"важны."
 
 #: ../../source/tutorials.rst:33
 msgid ""
 "A good lesson gives the learner confidence, by showing them that they can be"
 " successful in a certain skill or with a certain product."
 msgstr ""
+"Хороший урок дает учащемуся уверенность, показывая, что он может быть "
+"успешным в определенном навыке или с определенным продуктом."
 
 #: ../../source/tutorials.rst:37
 msgid "Obligations of the teacher"
-msgstr ""
+msgstr "Обязательства учителя"
 
 #: ../../source/tutorials.rst:41
 msgid "It's not easy being a teacher."
-msgstr ""
+msgstr "Нелегко быть учителем."
 
 #: ../../source/tutorials.rst:43
 msgid ""
@@ -102,33 +126,42 @@ msgid ""
 "follow the teacher's directions as closely as they can. There is no "
 "responsibility on the pupil to learn, understand or remember."
 msgstr ""
+"Урок — это своего рода договор между учителем и учеником, в котором почти "
+"вся ответственность ложится на учителя. Учитель несет ответственность за то,"
+" чему ученик должен научиться, что он будет делать, чтобы научиться этому, и"
+" за успех ученика. Между тем, единственная ответственность ученика в этом "
+"контракте - быть внимательным и следовать указаниям учителя настолько "
+"близко, насколько это возможно. На ученике нет ответственности учиться, "
+"понимать или помнить."
 
 #: ../../source/tutorials.rst:45
 msgid "At the same time, the exercise you put your pupils through must be:"
-msgstr ""
+msgstr "В то же время упражнение, которое вы выполняете, должно быть:"
 
 #: ../../source/tutorials.rst:47
 msgid "*meaningful* - the pupil needs to have a sense of achievement"
-msgstr ""
+msgstr "*значимый* - ученик должен иметь чувство достижения"
 
 #: ../../source/tutorials.rst:48
 msgid "*successful* - the pupil needs to be able to complete it"
-msgstr ""
+msgstr "*успешный* - ученик должен быть в состоянии завершить его"
 
 #: ../../source/tutorials.rst:49
 msgid ""
 "*logical* - the path that the pupil takes through it needs to make sense"
-msgstr ""
+msgstr "*логический* - путь, по которому проходит ученик, должен иметь смысл"
 
 #: ../../source/tutorials.rst:50
 msgid ""
 "*usefully complete* - the pupil must have an encounter with all of the "
 "actions, concepts and tools they need to become familiar with"
 msgstr ""
+"*Полезно заполнить* - ученик должен встретиться со всеми действиями, "
+"концепциями и инструментами, с которыми он должен ознакомиться."
 
 #: ../../source/tutorials.rst:54
 msgid "The problem of tutorials"
-msgstr ""
+msgstr "Проблема учебников"
 
 #: ../../source/tutorials.rst:56
 msgid ""
@@ -137,6 +170,11 @@ msgid ""
 "many products lack good tutorials, or lack tutorials completely; tutorials "
 "are often conflated with how-to guides."
 msgstr ""
+"Учебники редко делаются хорошо, отчасти потому, что их действительно трудно "
+"сделать хорошо, а отчасти потому, что они не очень хорошо поняты. В "
+"программном обеспечении многим продуктам не хватает хороших учебных пособий "
+"или полностью не хватает учебных пособий; учебные пособия часто сочетаются с"
+" руководствами."
 
 #: ../../source/tutorials.rst:58
 msgid ""
@@ -144,12 +182,17 @@ msgid ""
 "to the student, correcting their mistakes and checking their learning. In "
 "documentation, none of this is possible."
 msgstr ""
+"В идеальном уроке учитель присутствует и взаимодействует с учеником, "
+"исправляя его ошибки и проверяя его обучение. В документации все это "
+"невозможно."
 
 #: ../../source/tutorials.rst:62
 msgid ""
 "Writing and maintaining tutorials can consume a remarkable amount of effort "
 "and time."
 msgstr ""
+"Написание и поддержание учебных пособий может занять значительное количество"
+" усилий и времени."
 
 #: ../../source/tutorials.rst:64
 msgid ""
@@ -158,6 +201,11 @@ msgid ""
 "rapidly, meaning that all that work needs to be done again to ensure that "
 "the tutorial still performs its required functions."
 msgstr ""
+"Достаточно сложно собрать опыт обучения, который соответствует всем "
+"стандартам, описанным выше; во многих контекстах сам продукт быстро "
+"развивается, а это означает, что вся эта работа должна быть сделана снова, "
+"чтобы гарантировать, что учебник по-прежнему выполняет свои необходимые "
+"функции."
 
 #: ../../source/tutorials.rst:66
 msgid ""
@@ -167,6 +215,11 @@ msgid ""
 "where the end-to-end learning journey must make sense, they often cascade "
 "through the entire story."
 msgstr ""
+"Вы также часто обнаружите, что никакая другая часть вашей документации не "
+"подлежит пересмотру, как ваши учебники. В других местах в документации, "
+"изменения и улучшения, как правило, могут быть сделаны дискретно; в "
+"учебниках, где сквозное обучение должно иметь смысл, они часто каскад через "
+"всю историю."
 
 #: ../../source/tutorials.rst:68
 msgid ""
@@ -176,14 +229,19 @@ msgid ""
 "when, they must also devise a meaningful learning journey that somehow "
 "delivers all that."
 msgstr ""
+"Наконец, учебники содержат дополнительное усложнение различия между *Чему "
+"следует научиться* и *Что должно быть сделано*. Мало того, что создатель "
+"учебного пособия должен иметь хорошее представление о том, что пользователь "
+"должен узнать, и когда он также должен разработать значимое учебное "
+"путешествие, которое каким-то образом обеспечивает все это."
 
 #: ../../source/tutorials.rst:74
 msgid "Key principles"
-msgstr ""
+msgstr "Ключевые принципы"
 
 #: ../../source/tutorials.rst:76
 msgid "A tutorial is a pedagogical problem."
-msgstr ""
+msgstr "Учебник - это педагогическая проблема."
 
 #: ../../source/tutorials.rst:78
 msgid ""
@@ -192,28 +250,34 @@ msgid ""
 "concreteness and so on - are not secrets, but they are not always well "
 "understood."
 msgstr ""
+"Это непростая проблема, но и не тайна. Принципы, изложенные ниже — "
+"повторение, действие, маленькие шаги, результаты на ранней стадии и часто, "
+"конкретность и так далее — не являются секретами, но они не всегда хорошо "
+"понятны."
 
 #: ../../source/tutorials.rst:80
 msgid ""
 "Still, there are straightforward, effective ways to address the problems of "
 "pedagogy in practice."
 msgstr ""
+"Тем не менее, существуют простые, эффективные способы решения проблем "
+"педагогики на практике."
 
 #: ../../source/tutorials.rst:84
 msgid "abstraction, generalisation"
-msgstr ""
+msgstr "абстракция, обобщение"
 
 #: ../../source/tutorials.rst:85
 msgid "explanation"
-msgstr ""
+msgstr "объяснение"
 
 #: ../../source/tutorials.rst:86
 msgid "choices"
-msgstr ""
+msgstr "выбор"
 
 #: ../../source/tutorials.rst:87
 msgid "information"
-msgstr ""
+msgstr "информация"
 
 #: ../../source/tutorials.rst:89
 msgid ""
@@ -223,6 +287,11 @@ msgid ""
 "and understanding, but if you give into it and try to teach by telling and "
 "explaining, you will jeopardise the learning experience."
 msgstr ""
+"Первое правило обучения: **Не пытайтесь учить**. Ваша работа как учителя "
+"заключается в том, чтобы предоставить учащемуся опыт, который позволит ему "
+"учиться. Учитель неизбежно испытывает некоторую тревогу, чтобы передать "
+"знания и понимание, но если вы поддадитесь этому и попытаетесь научить, "
+"рассказывая и объясняя, вы поставите под угрозу опыт обучения."
 
 #: ../../source/tutorials.rst:91
 msgid ""
@@ -232,10 +301,15 @@ msgid ""
 "your pupil. You cannot make them learn. All you can do is make it so *they* "
 "can learn."
 msgstr ""
+"Вместо этого, *Позволить обучению происходить*, и поверьте, что это будет. "
+"Отдайте свои знания *делать*, с помощью которого они могут учиться. Только "
+"ваш ученик может учиться. К сожалению, сколько бы вы ни пожелали, вы не "
+"сможете учиться для своего ученика. Вы не можете заставить их учиться. Все, "
+"что вы можете сделать, это сделать так, чтобы *они* мог учиться."
 
 #: ../../source/tutorials.rst:95
 msgid "Show the learner where they'll be going"
-msgstr ""
+msgstr "Покажите ученику, куда он пойдет"
 
 #: ../../source/tutorials.rst:97
 msgid ""
@@ -244,6 +318,10 @@ msgid ""
 "allows them to see themselves building towards the completed goal as they "
 "work."
 msgstr ""
+"Важно позволить учащемуся сформировать представление о том, чего он "
+"достигнет с самого начала. Помимо того, что это помогает установить "
+"ожидания, это позволяет им видеть себя строящими к завершенной цели, когда "
+"они работают."
 
 #: ../../source/tutorials.rst:99
 msgid ""
@@ -252,16 +330,22 @@ msgid ""
 "scalable web application. Along the way we will encounter containerisation "
 "tools and services.*"
 msgstr ""
+"Предоставление рисунка, который нужен учащемуся в учебнике, может быть таким"
+" же простым, как и информирование его с самого начала: *В этом руководстве "
+"мы создадим и развернем масштабируемое веб-приложение. По пути мы столкнемся"
+" с инструментами и услугами контейнеризации.*"
 
 #: ../../source/tutorials.rst:101
 msgid ""
 "This is not the same as saying: *In this tutorial you will learn...* - which"
 " is presumptuous and a very poor pattern."
 msgstr ""
+"Это не то же самое, что сказать: *В этом уроке вы узнаете...* - это "
+"самонадеянный и очень плохой шаблон."
 
 #: ../../source/tutorials.rst:105
 msgid "Deliver visible results early and often"
-msgstr ""
+msgstr "Обеспечить видимые результаты рано и часто"
 
 #: ../../source/tutorials.rst:107
 msgid ""
@@ -271,16 +355,23 @@ msgid ""
 "rapidly and repeatedly. Each one of those results should be something that "
 "the user can see as meaningful."
 msgstr ""
+"Ваш ученик, вероятно, делает новые и странные вещи, которые он не полностью "
+"понимает. Понимание приходит от способности устанавливать связи между "
+"причинами и следствиями, поэтому пусть они видят результаты и делают связи "
+"быстро и многократно. Каждый из этих результатов должен быть тем, что "
+"пользователь может считать значимым."
 
 #: ../../source/tutorials.rst:109
 msgid ""
 "Every step the learner follows should produce a comprehensible result, "
 "however small."
 msgstr ""
+"Каждый шаг, который следует ученику, должен дать понятный результат, пусть и"
+" небольшой."
 
 #: ../../source/tutorials.rst:113
 msgid "Maintain a narrative of the expected"
-msgstr ""
+msgstr "Сохранить нарратив ожидаемого"
 
 #: ../../source/tutorials.rst:115
 msgid ""
@@ -289,6 +380,10 @@ msgid ""
 "tutorial is to keep providing feedback to the learner that they are indeed "
 "on the right path."
 msgstr ""
+"На каждом этапе обучения пользователь испытывает момент тревоги: приведет ли"
+" это действие к правильному результату? Частью работы успешного учебного "
+"пособия является постоянное предоставление обратной связи учащемуся, что они"
+" действительно находятся на правильном пути."
 
 #: ../../source/tutorials.rst:117
 msgid ""
@@ -296,6 +391,9 @@ msgid ""
 " few moments, the server responds with ...\". Show the user actual example "
 "output, or even the exact expected output."
 msgstr ""
+"Продолжайте повествование ожиданий: «Вы заметите, что...»; «Через несколько "
+"мгновений сервер отвечает...». Показать пользователю фактический пример "
+"вывода, или даже точный ожидаемый вывод."
 
 #: ../../source/tutorials.rst:119
 msgid ""
@@ -303,6 +401,9 @@ msgid ""
 "flagging them: \"If the output doesn't show ..., you have probably forgotten"
 " to ...\"."
 msgstr ""
+"Если вы заранее знаете, каковы вероятные признаки того, что вы ошибаетесь, "
+"подумайте о том, чтобы пометить их: «Если результат не показывает ..., вы, "
+"вероятно, забыли ...»."
 
 #: ../../source/tutorials.rst:121
 msgid ""
@@ -310,10 +411,12 @@ msgid ""
 "command will probably return several hundred lines of logs in your "
 "terminal.\""
 msgstr ""
+"Полезно подготовить пользователя к возможно неожиданным действиям: «Команда,"
+" вероятно, вернет несколько сотен строк журналов в вашем терминале»."
 
 #: ../../source/tutorials.rst:125
 msgid "Point out what the learner should notice"
-msgstr ""
+msgstr "Укажите, что ученик должен заметить"
 
 #: ../../source/tutorials.rst:127
 msgid ""
@@ -322,6 +425,10 @@ msgid ""
 "environment. In a lesson, a learner is typically too focused on what they "
 "are doing to notice them, unless they are prompted by the teacher."
 msgstr ""
+"Обучение требует рефлексии. Это происходит на нескольких уровнях и глубинах,"
+" но один из первых — когда ученик наблюдает знаки в своей среде. На уроке "
+"ученик, как правило, слишком сосредоточен на том, что они делают, чтобы "
+"заметить их, если они не вызваны учителем."
 
 #: ../../source/tutorials.rst:129
 msgid ""
@@ -329,6 +436,9 @@ msgid ""
 "out, in passing, as the lesson moves along. This can be as simple as "
 "pointing out how a command line prompt changes, for example."
 msgstr ""
+"Ваша работа в качестве учителя заключается в том, чтобы закрыть петли "
+"обучения, указывая на вещи, мимоходом, по мере продвижения урока. Это может "
+"быть так же просто, как, например, указать, как изменяется командная строка."
 
 #: ../../source/tutorials.rst:131
 msgid ""
@@ -336,44 +446,58 @@ msgid ""
 "paying attention to the environment, a skill in itself. It's often "
 "neglected."
 msgstr ""
+"Наблюдение является активной частью ремесла, а не просто пассивным. Это "
+"значит обращать внимание на окружающую среду, сам по себе навык. Это часто "
+"игнорируется."
 
 #: ../../source/tutorials.rst:135
 msgid "Target *the feeling of doing*"
-msgstr ""
+msgstr "Цель *Ощущение делать*"
 
 #: ../../source/tutorials.rst:137
 msgid ""
 "In all skill or craft, the accomplished practitioner experiences a *feeling "
 "of doing*, a joined-up purpose, action, thinking and result."
 msgstr ""
+"Во всех навыках или ремесле опытный практик испытывает *Чувство делать*, "
+"объединенную цель, действие, мышление и результат."
 
 #: ../../source/tutorials.rst:139
 msgid ""
 "As skill develops, it flows in a confident rhythm and becomes a kind of "
 "pleasure. It's the pleasure of walking, for example."
 msgstr ""
+"По мере развития навыка он течет в уверенном ритме и становится своеобразным"
+" удовольствием. Например, удовольствие от прогулок."
 
 #: ../../source/tutorials.rst:143
 msgid ""
 "Pay attention to your own *feeling of doing* in your work. What is it like "
 "to perform a particular operation?"
 msgstr ""
+"Обратите внимание на свой собственный *Чувство делать* в своей работе. "
+"Каково это – выполнять определенную операцию?"
 
 #: ../../source/tutorials.rst:145
 msgid ""
 "Your learner's skill depends upon their discovering this feeling, and its "
 "becoming a pleasure."
 msgstr ""
+"Умение вашего ученика зависит от того, как он откроет это чувство и станет "
+"удовольствием."
 
 #: ../../source/tutorials.rst:147
 msgid ""
 "Your challenge as the creator of a tutorial is to ensure that its tasks tie "
 "together purpose and action so they become a cradle for this feeling."
 msgstr ""
+"Ваша задача как создателя учебного пособия состоит в том, чтобы его задачи "
+"связывали воедино цель и действие, чтобы они стали колыбелью для этого "
+"чувства."
 
 #: ../../source/tutorials.rst:151
 msgid "Encourage and permit repetition"
-msgstr ""
+msgstr "Поощрять и разрешать повторение"
 
 #: ../../source/tutorials.rst:153
 msgid ""
@@ -381,17 +505,22 @@ msgid ""
 "the pleasure they find in getting the expected result. Doing so reaffirms to"
 " them that they can do it, and that it works."
 msgstr ""
+"Учащиеся возвращаются и повторяют упражнение, которое дает им успех, для "
+"удовольствия, которое они находят в получении ожидаемого результата. Это "
+"подтверждает, что они могут это сделать и что это работает."
 
 #: ../../source/tutorials.rst:155
 msgid ""
 "Repetition is a key to establishing the feeling of doing; being at home with"
 " that feeling is a foundational layer of learning."
 msgstr ""
+"Повторение является ключом к установлению чувства действия; пребывание дома "
+"с этим чувством является основополагающим уровнем обучения."
 
 #: ../../source/tutorials.rst:159
 msgid ""
 "Repetition is not the best teacher - sometimes it's the *only* teacher."
-msgstr ""
+msgstr "Повторение не лучший учитель - иногда это *только* учитель."
 
 #: ../../source/tutorials.rst:161
 msgid ""
@@ -402,10 +531,16 @@ msgid ""
 " to see how often they choose to repeat a step. They are doing it just to "
 "see that the same thing really does happen again."
 msgstr ""
+"В своем учебнике постарайтесь сделать возможным повторение определенного "
+"шага и результата. Это может быть трудно, например, в операциях, которые не "
+"являются обратимыми (что затрудняет возврат к предыдущему шагу), но ищите "
+"его везде, где вы можете. Наблюдая, как пользователь следует учебнику, вы "
+"можете быть удивлены, как часто он повторяет шаг. Они делают это, чтобы "
+"увидеть, что то же самое действительно происходит снова."
 
 #: ../../source/tutorials.rst:165
 msgid "Ruthlessly minimise explanation"
-msgstr ""
+msgstr "Беспощадно сводите к минимуму объяснения"
 
 #: ../../source/tutorials.rst:167
 msgid ""
@@ -415,6 +550,11 @@ msgid ""
 " now they are concerned with *doing*. Explanation distracts their attention "
 "from that, and blocks their learning."
 msgstr ""
+"Учебник *A не место для объяснения. * В учебнике пользователь ориентирован "
+"на правильное следование вашим указаниям и получение ожидаемых результатов. "
+"*Later*, когда они будут готовы, они будут искать объяснения, но прямо "
+"сейчас они обеспокоены *doing*. Объяснение отвлекает их внимание от этого и "
+"блокирует их обучение."
 
 #: ../../source/tutorials.rst:169
 msgid ""
@@ -423,12 +563,18 @@ msgid ""
 "explanation of HTTPS, but not now. Instead, provide a link or reference to "
 "that explanation, so that it's available, but doesn't get in the way."
 msgstr ""
+"Например, достаточно сказать что-то вроде: *Мы используем HTTPS, потому что "
+"это более безопасно.* Есть место для расширенного обсуждения и объяснения "
+"HTTPS, но не сейчас. Вместо этого предоставьте ссылку или ссылку на это "
+"объяснение, чтобы оно было доступно, но не мешало."
 
 #: ../../source/tutorials.rst:173
 msgid ""
 "Explanation is only pertinent at the moment the *user* wants it. It is not "
 "for the documentation author to decide."
 msgstr ""
+"Объяснение актуально только в тот момент, когда *пользователь* хочет этого. "
+"Автору документации решать не стоит."
 
 #: ../../source/tutorials.rst:175
 msgid ""
@@ -441,6 +587,14 @@ msgid ""
 "understanding - but these are not what we need in a tutorial, and it's not "
 "how successful learning or teaching works."
 msgstr ""
+"Объяснение является одним из самых трудных искушений для учителя, чтобы "
+"сопротивляться; даже опытным учителям трудно принять, что обучение их "
+"учеников не зависит от объяснения. Это совершенно естественно. Как только мы"
+" что-то поняли, мы полагаемся на силу абстракции, чтобы представить это "
+"себе, и именно так мы хотим представить это другим. Понимание означает "
+"понимание общих идей, а абстракция — это логическая форма понимания, но это "
+"не то, что нам нужно в учебнике, и это не то, насколько успешно работает "
+"обучение или преподавание."
 
 #: ../../source/tutorials.rst:177
 msgid ""
@@ -448,10 +602,13 @@ msgid ""
 "dissolve into air, when a teacher's well-intentioned explanation breaks the "
 "magic spell of learning."
 msgstr ""
+"Нужно увидеть это для себя, увидеть, как сосредоточенное внимание ученика "
+"растворяется в воздухе, когда благонамеренное объяснение учителя нарушает "
+"магическое заклинание обучения."
 
 #: ../../source/tutorials.rst:181
 msgid "... and focus on the concrete"
-msgstr ""
+msgstr "... и сосредоточиться на конкретном"
 
 #: ../../source/tutorials.rst:183
 msgid ""
@@ -459,12 +616,17 @@ msgid ""
 " concrete things. You are responsible for setting up and maintaining the "
 "student's flow, from one concrete action and result to another."
 msgstr ""
+"В ситуации обучения ваш ученик находится в моменте, моменте, состоящем из "
+"конкретных вещей. Вы несете ответственность за организацию и поддержание "
+"потока студентов, от одного конкретного действия и результата к другому."
 
 #: ../../source/tutorials.rst:185
 msgid ""
 "Focus on *this* problem, *this* action, *this* result, in such a way that "
 "you lead the learner from step to concrete step."
 msgstr ""
+"Сосредоточьтесь на проблеме *это*, действии *это*, результате *это*, таким "
+"образом, чтобы вы привели ученика от шага к конкретному шагу."
 
 #: ../../source/tutorials.rst:187
 msgid ""
@@ -475,10 +637,16 @@ msgid ""
 "moves in one direction: from the concrete and particular, towards the "
 "general and abstract. The latter *will* emerge from the former."
 msgstr ""
+"Может показаться, что, сосредоточившись на конкретном и конкретном, вы "
+"лишаете студента возможности увидеть или понять более крупные общие "
+"закономерности, но наоборот. Единственное, что наш ум делает впечатляюще "
+"хорошо, это воспринимает общие закономерности на конкретных примерах. Все "
+"обучение движется в одном направлении: от конкретного и частного к общему и "
+"абстрактному. Последний *будет* выходит из первого."
 
 #: ../../source/tutorials.rst:191
 msgid "Ignore options and alternatives"
-msgstr ""
+msgstr "Игнорировать варианты и альтернативы"
 
 #: ../../source/tutorials.rst:193
 msgid ""
@@ -489,22 +657,32 @@ msgid ""
 "focused on what's required to reach the conclusion*, and everything else can"
 " be left for another time."
 msgstr ""
+"Ваша работа заключается в том, чтобы направить ученика к успешному "
+"завершению. По пути может быть много интересных диверсий (различные варианты"
+" команды, которую вы используете, разные способы использования API, разные "
+"подходы к задаче, которую вы описываете) - игнорируйте их. *Ваше руководство"
+" должно оставаться сосредоточенным на том, что требуется для достижения "
+"результата.* и все остальное можно оставить на другое время."
 
 #: ../../source/tutorials.rst:195
 msgid ""
 "Doing this helps keep your tutorial shorter and crisper, and saves both you "
 "and the reader from having to do extra cognitive work."
 msgstr ""
+"Это помогает сделать учебник короче и четче, и избавляет вас и читателя от "
+"необходимости выполнять дополнительную когнитивную работу."
 
 #: ../../source/tutorials.rst:199
 msgid "Aspire to perfect reliability"
-msgstr ""
+msgstr "Стремитесь к идеальной надежности"
 
 #: ../../source/tutorials.rst:201
 msgid ""
 "All of the above are general principles of pedagogy, but there is a special "
 "burden on the creator of a tutorial."
 msgstr ""
+"Все вышеперечисленное — общие принципы педагогики, но на создателя учебного "
+"пособия лежит особая нагрузка."
 
 #: ../../source/tutorials.rst:203
 msgid ""
@@ -514,10 +692,15 @@ msgid ""
 "your directions and doesn't get the expected results will quickly lose "
 "confidence, in the tutorial, the tutor and themselves."
 msgstr ""
+"Учебник должен внушать доверие. Доверие может быть построено только слой за "
+"слоем и легко поколеблено. На каждом этапе, когда вы просите своего ученика "
+"что-то сделать, он должен увидеть результат, который вы обещаете. Учащийся, "
+"который следует вашим указаниям и не получает ожидаемых результатов, быстро "
+"потеряет уверенность в учебнике, репетиторе и себе."
 
 #: ../../source/tutorials.rst:207
 msgid "You are required to be present, but condemned to be absent."
-msgstr ""
+msgstr "Вы обязаны присутствовать, но обречены на отсутствие."
 
 #: ../../source/tutorials.rst:209
 msgid ""
@@ -526,12 +709,18 @@ msgid ""
 "constructed that things *can't* go wrong, that your tutorial works for every"
 " user, every time."
 msgstr ""
+"Учитель, который там с учеником, может спасти их, когда все пойдет не так. В"
+" учебнике ты не можешь этого сделать. Ваш учебник должен быть настолько "
+"хорошо сконструирован, что вещи *не может* идут не так, что ваш учебник "
+"работает для каждого пользователя, каждый раз."
 
 #: ../../source/tutorials.rst:211
 msgid ""
 "It's hard work to create a reliable experience, but that is what you must "
 "aspire to in creating a tutorial."
 msgstr ""
+"Это тяжелая работа, чтобы создать надежный опыт, но это то, что вы должны "
+"стремиться в создании учебного пособия."
 
 #: ../../source/tutorials.rst:213
 msgid ""
@@ -541,83 +730,98 @@ msgid ""
 " what actually happens when users do the tutorial, through extensive testing"
 " and observation."
 msgstr ""
+"Ваш учебник будет иметь недостатки и пробелы, но тщательно он написан. Вы не"
+" найдете их все самостоятельно, вам придется полагаться на пользователей, "
+"чтобы найти их для вас. Единственный способ узнать, что они собой "
+"представляют, — это выяснить, что на самом деле происходит, когда "
+"пользователи делают учебник, с помощью обширного тестирования и наблюдения."
 
 #: ../../source/tutorials.rst:219
 msgid "The language of tutorials"
-msgstr ""
+msgstr "Язык учебных пособий"
 
 #: ../../source/tutorials.rst:221
 msgid "We ..."
-msgstr ""
+msgstr "Мы..."
 
 #: ../../source/tutorials.rst:222
 msgid ""
 "The first-person plural affirms the relationship between tutor and learner: "
 "you are not alone; we are in this together."
 msgstr ""
+"Множественное число от первого лица подтверждает связь между учителем и "
+"учеником: вы не одиноки, мы вместе."
 
 #: ../../source/tutorials.rst:223
 msgid "In this tutorial, we will ..."
-msgstr ""
+msgstr "В этом уроке мы будем..."
 
 #: ../../source/tutorials.rst:224
 msgid "Describe what the learner will accomplish."
-msgstr ""
+msgstr "Опишите, чего ученик достигнет."
 
 #: ../../source/tutorials.rst:225
 msgid "First, do x. Now, do y. Now that you have done y, do z."
 msgstr ""
+"Во-первых, сделать x. А теперь сделай. Теперь, когда вы сделали y, сделайте "
+"z."
 
 #: ../../source/tutorials.rst:226
 msgid "No room for ambiguity or doubt."
-msgstr ""
+msgstr "Нет места для двусмысленности или сомнений."
 
 #: ../../source/tutorials.rst:227
 msgid ""
 "We must always do x before we do y because... (see Explanation for more "
 "details)."
 msgstr ""
+"Мы всегда должны сделать x, прежде чем сделать y, потому что... (подробнее "
+"см. в пояснении)."
 
 #: ../../source/tutorials.rst:228
 msgid ""
 "Provide minimal explanation of actions in the most basic language possible. "
 "Link to more detailed explanation."
 msgstr ""
+"Предоставьте минимальное объяснение действий на самом простом языке. Ссылка "
+"на более подробное объяснение."
 
 #: ../../source/tutorials.rst:229
 msgid "The output should look something like ..."
-msgstr ""
+msgstr "Выход должен выглядеть как..."
 
 #: ../../source/tutorials.rst:230
 msgid "Give your learner clear expectations."
-msgstr ""
+msgstr "Дайте своему ученику четкие ожидания."
 
 #: ../../source/tutorials.rst:231
 msgid "Notice that ... Remember that ... Let's check ..."
-msgstr ""
+msgstr "Заметьте, что… Помните об этом… Давайте проверим…"
 
 #: ../../source/tutorials.rst:232
 msgid ""
 "Give your learner plenty of clues to help confirm they are on the right "
 "track and orient themselves."
 msgstr ""
+"Дайте учащемуся множество подсказок, которые помогут убедиться, что он на "
+"правильном пути, и сориентироваться."
 
 #: ../../source/tutorials.rst:233
 msgid "You have built a secure, three-layer hylomorphic stasis engine..."
-msgstr ""
+msgstr "Вы создали безопасную трехслойную гиломорфную стазисную машину..."
 
 #: ../../source/tutorials.rst:234
 msgid ""
 "Describe (and admire, in a mild way) what your learner has accomplished."
-msgstr ""
+msgstr "Опишите (и в мягкой форме восхититесь), чего достиг ваш ученик."
 
 #: ../../source/tutorials.rst:240
 msgid "Applied to food and cooking"
-msgstr ""
+msgstr "Применяется к еде и приготовлению пищи"
 
 #: ../../source/tutorials.rst:242
 msgid "A child proudly showing a dish he has helped prepare"
-msgstr ""
+msgstr "Ребенок с гордостью показывает блюдо, которое он помог приготовить"
 
 #: ../../source/tutorials.rst:245
 msgid ""
@@ -625,12 +829,17 @@ msgid ""
 "understand what matters in a tutorial, and just as importantly, the things "
 "that don't matter at all."
 msgstr ""
+"Кто-то, кто имел опыт обучения ребенка готовить, поймет, что важно в "
+"учебнике, и, что не менее важно, вещи, которые не имеют значения."
 
 #: ../../source/tutorials.rst:247
 msgid ""
 "It really doesn't matter what the child makes, or how correctly they do it. "
 "The value of a lesson lies in what the child gains, not what they produce."
 msgstr ""
+"На самом деле не имеет значения, что делает ребенок и насколько правильно он"
+" это делает. Ценность урока заключается в том, что получает ребенок, а не в "
+"том, что он производит."
 
 #: ../../source/tutorials.rst:249
 msgid ""
@@ -638,6 +847,9 @@ msgid ""
 "whether the child can now repeat the processes on their own. Success is when"
 " the child acquires the knowledge and skills you were hoping to impart."
 msgstr ""
+"Успех на уроке кулинарии с ребенком не является кулинарным результатом, или "
+"ребенок может повторить процессы самостоятельно. Успех - это когда ребенок "
+"приобретает знания и навыки, которые вы надеялись передать."
 
 #: ../../source/tutorials.rst:251
 msgid ""
@@ -646,6 +858,9 @@ msgid ""
 "Learning a skill is never a once and for all matter. Repetition is always "
 "required."
 msgstr ""
+"Важнейшим условием этого является то, что ребенок находит удовольствие в "
+"том, чтобы быть на кухне с вами, и хочет вернуться к этому. Обучение навыкам"
+" никогда не бывает раз и навсегда. Повторение требуется всегда."
 
 #: ../../source/tutorials.rst:253
 msgid ""
@@ -655,6 +870,11 @@ msgid ""
 "*how to hold a knife*; *why the oil must be hot*; *what this utensil is "
 "called*, *how to time and measure things*."
 msgstr ""
+"Между тем, урок кулинарии может быть основан на идее научиться готовить "
+"конкретное блюдо, но то, что нам действительно нужно, чтобы ребенок узнал, "
+"может быть такими вещами, как: *Мы мыть руки перед тем, как обращаться с "
+"едой.*; *Как держать нож*; *Почему масло должно быть горячим*; *Как "
+"называется эта посуда*, *Как измерять и измерять вещи*."
 
 #: ../../source/tutorials.rst:255
 msgid ""
@@ -662,6 +882,9 @@ msgid ""
 "own time, at its own pace, **through the activities** you do together, and "
 "not from the things you say or show."
 msgstr ""
+"Ребенок учится всему этому, работая вместе с вами на кухне; в свое время, в "
+"своем собственном темпе, **посредством деятельности** вы делаете вместе, а "
+"не из того, что вы говорите или показываете."
 
 #: ../../source/tutorials.rst:257
 msgid ""
@@ -672,3 +895,10 @@ msgid ""
 "down something in the construction of its technical expertise, that can be "
 "returned to and built upon next time."
 msgstr ""
+"С маленьким ребенком вы часто обнаружите, что урок внезапно должен "
+"закончиться, прежде чем вы закончите то, что намеревались сделать. Это "
+"нормально и ожидаемо; дети имеют короткие промежутки внимания. Но до тех "
+"пор, пока ребенку удавалось достичь чего-то — пусть даже небольшого — и "
+"получать от этого удовольствие, он будет закладывать что-то в конструкцию "
+"своего технического опыта, к которому можно будет вернуться и на котором "
+"можно будет построить в следующий раз."

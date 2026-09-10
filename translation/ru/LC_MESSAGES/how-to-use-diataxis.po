@@ -2,7 +2,7 @@
 # Copyright (C) Daniele Procida
 # This file is distributed under the same license as the Diátaxis package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
@@ -10,22 +10,25 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-08-01 12:29+0200\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
-"Language-Team: Russian (https://app.transifex.com/danieleprocida/teams/120528/ru/)\n"
+"Last-Translator: Danil Pismenny <danil@pismenny.ru>\n"
+"Language-Team: Russian\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ru\n"
 "Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
 
 #: ../../source/how-to-use-diataxis.rst:4
 msgid "Diátaxis as a guide to work"
-msgstr ""
+msgstr "Diátaxis как руководство по работе"
 
 #: ../../source/how-to-use-diataxis.rst:6
 msgid ""
 "As well as providing a guide to documentation content, Diátaxis is also a "
 "guide to documentation process and execution."
 msgstr ""
+"Помимо руководства по содержанию документации, Diátaxis также является "
+"руководством по процессу и выполнению документации."
 
 #: ../../source/how-to-use-diataxis.rst:8
 msgid ""
@@ -37,6 +40,13 @@ msgid ""
 "documentation to find themselves responsible for improving or even "
 "remediating a body of work."
 msgstr ""
+"Большинству людей, работающих над технической документацией, приходится "
+"принимать решения о том, как работать, по ходу работы. В некоторых случаях "
+"документация должна быть предоставлена ​​один раз, в полной комплектации и в"
+" ее окончательном состоянии, но чаще всего это непрерывный проект, например,"
+" разрабатываемый вместе с продуктом, который сам развивается и развивается. "
+"По опыту многих людей, работающих над документацией, на них лежит "
+"ответственность за улучшение или даже исправление результатов работы."
 
 #: ../../source/how-to-use-diataxis.rst:10
 msgid ""
@@ -45,10 +55,14 @@ msgid ""
 " top-down workflows, preferring instead small, responsive iterations from "
 "which overall patterns emerge."
 msgstr ""
+"Diátaxis обеспечивает подход к работе, который противоречит большинству "
+"общепринятых принципов документации. В частности, он не поощряет "
+"планирование и нисходящие рабочие процессы, предпочитая вместо этого "
+"небольшие, гибкие итерации, из которых выявляются общие закономерности."
 
 #: ../../source/how-to-use-diataxis.rst:14
 msgid "Use Diátaxis as a guide, not a plan"
-msgstr ""
+msgstr "Используйте Diátaxis в качестве руководства, а не плана."
 
 #: ../../source/how-to-use-diataxis.rst:16
 msgid ""
@@ -57,6 +71,10 @@ msgid ""
 "complete in your documentation. It's a **guide**, a map to help you check "
 "that you're in the right place and going in the right directions."
 msgstr ""
+"Diátaxis описывает полную картину документации. Однако предлагаемая "
+"структура не предназначена для **план**, которую вы должны указать в своей "
+"документации. Это **гид** — карта, которая поможет вам убедиться, что вы "
+"находитесь в правильном месте и двигаетесь в правильном направлении."
 
 #: ../../source/how-to-use-diataxis.rst:20
 msgid ""
@@ -65,16 +83,23 @@ msgid ""
 " what you're trying to do with it. It provides tools that help assess it, "
 "identify where its problems lie, and judge what you can do to improve it."
 msgstr ""
+"Цель Diátaxis — дать вам возможность обдумать и понять вашу документацию, "
+"чтобы вы могли лучше понять, что она делает и что вы пытаетесь с ней "
+"сделать. Он предоставляет инструменты, которые помогают оценить его, "
+"определить, в чем заключаются его проблемы, и решить, что вы можете сделать,"
+" чтобы его улучшить."
 
 #: ../../source/how-to-use-diataxis.rst:26
 msgid "Don't worry about structure"
-msgstr ""
+msgstr "Не беспокойтесь о структуре"
 
 #: ../../source/how-to-use-diataxis.rst:28
 msgid ""
 "Although structure is key to documentation, **using Diátaxis means not "
 "spending energy trying to get its structure correct**."
 msgstr ""
+"Хотя структура является ключом к документации, **использование Diátaxis "
+"означает не тратить энергию на то, чтобы исправить его структуру.**."
 
 #: ../../source/how-to-use-diataxis.rst:31
 msgid ""
@@ -83,6 +108,10 @@ msgid ""
 "assumed that shape *because* it has been improved. It's not the other way "
 "round, that the structure must be imposed upon documentation to improve it."
 msgstr ""
+"Если вы продолжите следовать подсказкам, предоставляемым Diátaxis, в "
+"конечном итоге ваша документация примет структуру Diátaxis, но будет "
+"считаться, что форма *потому что* была улучшена. Это не наоборот: структура "
+"должна быть навязана документации, чтобы улучшить ее."
 
 #: ../../source/how-to-use-diataxis.rst:35
 msgid ""
@@ -92,6 +121,11 @@ msgid ""
 "guides/reference/explanation with nothing in them.** Don't do that. It's "
 "horrible."
 msgstr ""
+"Приступая к работе с Diátaxis, вам не придется думать о разделении "
+"документации на четыре раздела. **Это, конечно, не означает, что вы должны "
+"создавать пустые структуры для учебных "
+"пособий/руководств/справок/объяснений, в которых ничего нет.** Не делай "
+"этого. Это ужасно."
 
 #: ../../source/how-to-use-diataxis.rst:37
 msgid ""
@@ -103,10 +137,17 @@ msgid ""
 "structure will form. In other words, **Diátaxis changes the structure of "
 "your documentation from the inside**."
 msgstr ""
+"Вместо этого, следуя рабочему процессу, описанному в следующих двух "
+"разделах, вносите изменения там, где вы видите возможности для улучшения в "
+"соответствии с принципами Diátaxis, чтобы документация начала принимать "
+"определенную форму. В определенный момент внесенные вами изменения потребуют"
+" перемещения материала под определенный заголовок Diátaxis — и именно так "
+"сформируется ваша структура верхнего уровня. Другими словами, **Diátaxis "
+"меняет структуру вашей документации изнутри**."
 
 #: ../../source/how-to-use-diataxis.rst:45
 msgid "Work one step at a time"
-msgstr ""
+msgstr "Работайте шаг за шагом"
 
 #: ../../source/how-to-use-diataxis.rst:47
 msgid ""
@@ -114,6 +155,9 @@ msgid ""
 "existing documentation - even if it's a complete mess by any standards - "
 "it's always possible to improve it, **iteratively**."
 msgstr ""
+"Diátaxis строго предписывает структуру, но в каком бы состоянии ни была ваша"
+" существующая документация - даже если по любым стандартам она представляет "
+"собой полный беспорядок - ее всегда можно улучшить, **итеративно**."
 
 #: ../../source/how-to-use-diataxis.rst:50
 msgid ""
@@ -122,6 +166,9 @@ msgid ""
 "temptation - every step in the right direction is worth publishing "
 "immediately."
 msgstr ""
+"Вполне естественно желание выполнить большие объемы работы перед их "
+"публикацией, чтобы каждый раз было что показать. Избегайте этого искушения: "
+"каждый шаг в правильном направлении стоит немедленно публиковать."
 
 #: ../../source/how-to-use-diataxis.rst:53
 msgid ""
@@ -130,10 +177,14 @@ msgid ""
 "unhelpful. Diátaxis is designed to guide small steps; keep taking small "
 "steps to arrive where you want to go."
 msgstr ""
+"Хотя Diátaxis предназначен для предоставления общей картины документации, "
+"**не пытайтесь работать над общей картиной**. Это и ненужно, и бесполезно. "
+"Diátaxis предназначен для управления маленькими шагами; продолжайте делать "
+"маленькие шаги, чтобы прийти туда, куда вы хотите."
 
 #: ../../source/how-to-use-diataxis.rst:59
 msgid "Just do something"
-msgstr ""
+msgstr "Просто сделай что-нибудь"
 
 #: ../../source/how-to-use-diataxis.rst:61
 msgid ""
@@ -142,6 +193,11 @@ msgid ""
 " Diátaxis goes, it isn't necessary to seek out things to improve. Instead, "
 "the best way to apply Diátaxis is as follows:"
 msgstr ""
+"Если вы наводите порядок в огромном беспорядке, возникает искушение все это "
+"разрушить и начать заново. Опять же, избегайте этого. Что касается улучшения"
+" документации в рамках Diátaxis, нет необходимости искать, что можно "
+"улучшить. Вместо этого лучший способ применить Diátaxis заключается в "
+"следующем:"
 
 #: ../../source/how-to-use-diataxis.rst:65
 msgid ""
@@ -151,6 +207,11 @@ msgid ""
 "that moment: the file you’re in, the last page you read - it doesn’t matter."
 " If there isn’t one just choose something, literally at random."
 msgstr ""
+"**Выберите что-нибудь** — любая часть документации. Если у вас еще нет чего-"
+"то, что вы хотите исправить, не ищите нерешенных проблем. Просто посмотрите "
+"на то, что у вас есть прямо перед вами в этот момент: файл, в котором вы "
+"находитесь, последняя прочитанная страница – это не имеет значения. Если "
+"такого нет, просто выберите что-нибудь, буквально наугад."
 
 #: ../../source/how-to-use-diataxis.rst:70
 msgid ""
@@ -161,12 +222,21 @@ msgid ""
 "What can be added, moved, removed or changed to serve that need better? Do "
 "its language and logic meet the requirements of this mode of documentation?*"
 msgstr ""
+"**Оцени это**. Далее рассмотрите эту вещь критически. Предпочтительно, чтобы"
+" это была небольшая вещь, не больше страницы, а лучше, даже меньше, абзаца "
+"или предложения. Вызовите его, согласно стандартам Diátaxis предписывает: "
+"*Какие потребности пользователя этим представлены? Насколько хорошо он "
+"удовлетворяет эту потребность? Что можно добавить, переместить, удалить или "
+"изменить, чтобы лучше служить нуждам? Соответствуют ли его язык и логика "
+"требованиям этого вида документации?*"
 
 #: ../../source/how-to-use-diataxis.rst:75
 msgid ""
 "**Decide what to do**. Decide, based on your answers to those questions: "
 "*What single next action will produce an immediate improvement here?*"
 msgstr ""
+"**Решите, что делать**. Решите, основываясь на ваших ответах на эти вопросы:"
+" *Какое следующее действие приведет к немедленному улучшению ситуации?*"
 
 #: ../../source/how-to-use-diataxis.rst:78
 msgid ""
@@ -174,10 +244,14 @@ msgid ""
 "i.e. publish it, or at least commit the change. Don't feel that you need to "
 "do anything else to make a worthy improvement."
 msgstr ""
+"**сделай это**. Завершите следующее действие *и считать его завершенным*, то"
+" есть опубликуйте его или, по крайней мере, зафиксируйте изменение. Не "
+"думайте, что вам нужно сделать что-то еще, чтобы добиться достойного "
+"улучшения."
 
 #: ../../source/how-to-use-diataxis.rst:81
 msgid "And then go back to the beginning of the cycle."
-msgstr ""
+msgstr "А затем вернитесь к началу цикла."
 
 #: ../../source/how-to-use-diataxis.rst:83
 msgid ""
@@ -186,10 +260,15 @@ msgid ""
 "do. It keeps work flowing in the right direction, always towards the desired"
 " end, without having to expend energies on a plan."
 msgstr ""
+"Подобная работа помогает снизить стресс, связанный с одним из наиболее "
+"парализующих и неприятных аспектов работы составителя документации: "
+"определением того, что делать. Он позволяет работе идти в правильном "
+"направлении, всегда к желаемой цели, без необходимости тратить энергию на "
+"выполнение плана."
 
 #: ../../source/how-to-use-diataxis.rst:89
 msgid "Allow your work to develop organically"
-msgstr ""
+msgstr "Позвольте вашей работе развиваться органично"
 
 #: ../../source/how-to-use-diataxis.rst:91
 msgid ""
@@ -197,10 +276,13 @@ msgid ""
 "to work towards results. But it's not the only way, and there are often "
 "better ways when working with documentation."
 msgstr ""
+"Существует сильное желание работать в цикле планирования и исполнения, чтобы"
+" работать над достижением результатов. Но это не единственный способ, и при "
+"работе с документацией часто существуют более эффективные способы."
 
 #: ../../source/how-to-use-diataxis.rst:95
 msgid "Well-formed organic growth"
-msgstr ""
+msgstr "Хорошо сформированный органический рост"
 
 #: ../../source/how-to-use-diataxis.rst:97
 msgid ""
@@ -211,12 +293,20 @@ msgid ""
 "of cell. It's not the other way round, that a structure is imposed on the "
 "organism from above or outside. Good structure develops from within."
 msgstr ""
+"Хорошей моделью для документации является **хорошо сформированный "
+"органический рост, адаптирующийся к внешним условиям**. Органический рост "
+"происходит на клеточном уровне. Структура организма в целом гарантируется "
+"здоровым развитием клеток по правилам, свойственным каждому виду клеток. Не "
+"наоборот, структура навязывается организму сверху или извне. Хорошая "
+"структура развивается изнутри."
 
 #: ../../source/how-to-use-diataxis.rst:106
 msgid ""
 "Illustration copyright `Linette Voller <https://linettevoller.com>`_ 2021, "
 "reproduced with kind permission."
 msgstr ""
+"Авторские права на иллюстрацию `Линетт Воллер <https://linettevoller.com>`_,"
+" 2021 г., воспроизводятся с любезного разрешения."
 
 #: ../../source/how-to-use-diataxis.rst:108
 msgid ""
@@ -225,10 +315,14 @@ msgid ""
 "internal components themselves are well-formed - like a living organism, it "
 "will have built itself up from the inside-out, one cell at a time."
 msgstr ""
+"То же самое и с документацией: следуя принципам, которые обеспечивает "
+"Diátaxis, ваша документация приобретет здоровую структуру, поскольку ее "
+"внутренние компоненты сами по себе хорошо сформированы - как живой организм,"
+" она выстроится изнутри наружу, по одной клетке за раз."
 
 #: ../../source/how-to-use-diataxis.rst:113
 msgid "Complete, not finished"
-msgstr ""
+msgstr "Полный, не законченный"
 
 #: ../../source/how-to-use-diataxis.rst:115
 msgid ""
@@ -239,6 +333,12 @@ msgid ""
 "missing from it. At any point, it is in a state that is appropriate to its "
 "stage of development."
 msgstr ""
+"Рассмотрим растение. Как живой, растущий организм растение **никогда не "
+"заканчивал** – оно всегда может развиваться дальше, переходить на следующую "
+"стадию роста и зрелости. Но на каждом этапе своего развития, от семени до "
+"взрослого дерева, это **всегда полный** — в нем никогда ничего не недостает."
+" В любой момент он находится в состоянии, соответствующем его стадии "
+"развития."
 
 #: ../../source/how-to-use-diataxis.rst:120
 msgid ""
@@ -246,6 +346,10 @@ msgid ""
 "keep adapting and changing to the product and to users' needs, and can "
 "always be developed and improved further."
 msgstr ""
+"Точно так же документация никогда не бывает законченной, поскольку ее всегда"
+" приходится адаптировать и изменять в соответствии с продуктом и "
+"потребностями пользователей, и ее всегда можно развивать и совершенствовать "
+"в дальнейшем."
 
 #: ../../source/how-to-use-diataxis.rst:123
 msgid ""
@@ -253,3 +357,6 @@ msgid ""
 "current stage of development, and in a healthy structural state and ready to"
 " go on to the next stage."
 msgstr ""
+"Однако он всегда может быть полным: полезным для пользователей, "
+"соответствующим текущему этапу разработки, находящимся в работоспособном "
+"структурном состоянии и готовым перейти к следующему этапу."

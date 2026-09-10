@@ -1,18 +1,53 @@
-Diátaxis
-========================
+Diátaxis по-русски
+==================
 
-Diátaxis is a way of thinking about and doing documentation.
+Неофициальный русский перевод `Diátaxis <https://diataxis.fr/>`_ — системы
+для проектирования и написания технической документации.
 
-It prescribes approaches to content, architecture and form that emerge from a systematic approach to understanding the needs of documentation users.
+Публичная бета-версия: https://diataxis.pismenny.ru/. Машинный черновик
+опубликован с сохранением источников и проходит последовательную редакторскую
+вычитку; найденные неточности исправляются в gettext-каталоге.
 
-Published at https://diataxis.fr
+Происхождение и лицензия
+------------------------
 
-Author: `Daniele Procida <https://vurt.org>`_
+Оригинал создан `Daniele Procida <https://vurt.org>`_ и развивается в
+`evildmp/diataxis-documentation-framework
+<https://github.com/evildmp/diataxis-documentation-framework>`_. Этот перевод
+является производной работой: текст переведён на русский язык, добавлены
+атрибуция, русская навигация, ссылка на pismenny.ru и собственная доставка.
 
-I enjoy hearing about other people’s experiences with Diátaxis and read everything I receive.
+Оригинал и перевод распространяются по лицензии
+`Creative Commons Attribution-ShareAlike 4.0 International
+<https://creativecommons.org/licenses/by-sa/4.0/>`_. Проект не является
+официальной русской версией Diátaxis и не подразумевает одобрения автором.
 
-I appreciate all the interest and do my best to reply, but I get a considerable quantity of email related to Diátaxis and I can’t promise to respond to every message.
+Устройство
+----------
 
-If you’d like to discuss Diátaxis with other users, please see the `#diataxis <https://www.writethedocs.org/slack/> channel on the Write the Docs Slack group`_, or the `Discussions <https://github.com/evildmp/diataxis-documentation-framework/discussions>`_ section of `the GitHub repository for this website <https://github.com/evildmp/diataxis-documentation-framework>`_.
+Английские исходники находятся в ``source/`` и синхронизируются с remote
+``upstream``. Русский перевод хранится отдельно в
+``translation/ru/LC_MESSAGES/*.po``. Корень публичного сайта собирается на
+русском, английский оригинал доступен в ``/en/``.
 
-Licence: `CC-BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/>`_
+Локальная сборка::
+
+    make install
+    make site
+    make test
+
+Черновое заполнение новых gettext-строк выполняется Google Translate только
+для публичного английского оригинала. Локальный Argos Translate остаётся
+доступным как запасной provider. После машинного прохода обязательны сборка,
+проверка терминологии и редакторская вычитка::
+
+    uv run --python 3.12 --with-requirements requirements-translation.txt \
+      python scripts/fill_ru_catalog.py --force
+
+Deployment
+----------
+
+Immutable image публикуется в registry goga-office и разворачивается из
+``~/code/brandymint/infra`` через Helmfile::
+
+    make deploy

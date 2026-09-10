@@ -2,7 +2,7 @@
 # Copyright (C) Daniele Procida
 # This file is distributed under the same license as the Diátaxis package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
@@ -10,20 +10,21 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-08-01 12:29+0200\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
-"Language-Team: Russian (https://app.transifex.com/danieleprocida/teams/120528/ru/)\n"
+"Last-Translator: Danil Pismenny <danil@pismenny.ru>\n"
+"Language-Team: Russian\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ru\n"
 "Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
 
 #: ../../source/quality.rst:2
 msgid "Towards a theory of quality in documentation"
-msgstr ""
+msgstr "К теории качества в документации"
 
 #: ../../source/quality.rst:4
 msgid "Diátaxis is an approach to *quality* in documentation."
-msgstr ""
+msgstr "Diátaxis - это подход к *качество* в документации."
 
 #: ../../source/quality.rst:6
 msgid ""
@@ -32,6 +33,10 @@ msgid ""
 "rigorous way. We want quality in our documentation, but much less often "
 "specify what exactly we mean by that."
 msgstr ""
+"«Качество» — это слово, которое рискует потерять часть своего значения; это "
+"то, что мы все одобряем, но редко рискуем попытаться описать каким-либо "
+"строгим образом. Нам нужно качество нашей документации, но гораздо реже "
+"уточняйте, что именно мы подразумеваем под этим."
 
 #: ../../source/quality.rst:11
 msgid ""
@@ -40,6 +45,11 @@ msgid ""
 "them - and more than that, we often agree when we do. This suggests that we "
 "still have a useful grasp on the notion of quality."
 msgstr ""
+"Тем не менее, мы обычно можем указать на примеры «высококачественной "
+"документации», когда нас об этом спрашивают, и можем выявить недостатки в "
+"качестве, когда мы их видим, и более того, мы часто соглашаемся, когда мы "
+"это делаем. Это говорит о том, что у нас все еще есть полезное представление"
+" о понятии качества."
 
 #: ../../source/quality.rst:16
 msgid ""
@@ -47,10 +57,14 @@ msgid ""
 " paying some attention to it - here, attempting to refine our grasp by "
 "positing a distinction between **functional quality** and **deep quality**."
 msgstr ""
+"Поскольку мы стремимся к качеству документации, это помогает сделать это "
+"понимание более надежным, уделяя некоторое внимание этому - здесь, пытаясь "
+"усовершенствовать наше понимание, устанавливая различие между "
+"**функциональное качество** и **Глубокое качество**."
 
 #: ../../source/quality.rst:22 ../../source/quality.rst:118
 msgid "Functional quality"
-msgstr ""
+msgstr "Функциональное качество"
 
 #: ../../source/quality.rst:24
 msgid ""
@@ -59,6 +73,10 @@ msgid ""
 "aspects of its **functional quality**. Documentation that fails to meet any "
 "one of them is failing to perform one of its key functions."
 msgstr ""
+"Нам нужна документация для соответствия стандартам *точность*, *полнота*, "
+"*согласованность*, *полезность*, *точность* и так далее. Мы можем назвать "
+"эти аспекты **функциональное качество**. Документация, которая не "
+"соответствует ни одной из них, не выполняет одну из своих ключевых функций."
 
 #: ../../source/quality.rst:29
 msgid ""
@@ -67,6 +85,10 @@ msgid ""
 "but inaccurate and inconsistent. It can be accurate, complete, consistent "
 "and also useless."
 msgstr ""
+"Все эти свойства функционального качества независимы друг от друга. "
+"Документация может быть точной, но не полной. Оно может быть полным, но "
+"неточным и непоследовательным. Оно может быть точным, полным, "
+"последовательным и в то же время бесполезным."
 
 #: ../../source/quality.rst:34
 msgid ""
@@ -74,20 +96,28 @@ msgid ""
 "standards in multiple independent dimensions, consistently. It requires "
 "discipline and attention to detail, and high levels of technical skill."
 msgstr ""
+"Достижение функционального качества означает последовательное соблюдение "
+"высоких, объективно измеримых стандартов во многих независимых измерениях. "
+"Это требует дисциплины и внимания к деталям, а также высокого уровня "
+"технических навыков."
 
 #: ../../source/quality.rst:38
 msgid ""
 "To make it harder for the creator of documentation, any failure to meet all "
 "of these standards is readily apparent to the user."
 msgstr ""
+"Чтобы затруднить создание документации, любой отказ соответствовать всем "
+"этим стандартам легко очевиден для пользователя."
 
 #: ../../source/quality.rst:45 ../../source/quality.rst:119
 msgid "Deep quality"
-msgstr ""
+msgstr "Глубокое качество"
 
 #: ../../source/quality.rst:46
 msgid "There are other characteristics, that we can call **deep quality**."
 msgstr ""
+"Есть и другие характеристики, которые мы можем назвать **Глубокое "
+"качество**."
 
 #: ../../source/quality.rst:48
 msgid ""
@@ -95,30 +125,33 @@ msgid ""
 "ambition. True excellence in documentation implies characteristics of "
 "quality that are not included in accuracy, completeness and so on."
 msgstr ""
+"Функционального качества недостаточно или даже удовлетворительно само по "
+"себе. Истинное превосходство в документации подразумевает характеристики "
+"качества, которые не включаются в точность, полноту и так далее."
 
 #: ../../source/quality.rst:52
 msgid "Think of characteristics such as:"
-msgstr ""
+msgstr "Подумайте о таких характеристиках, как:"
 
 #: ../../source/quality.rst:54
 msgid "*feeling good to use*"
-msgstr ""
+msgstr "*Чувствовать себя хорошо использовать*"
 
 #: ../../source/quality.rst:55
 msgid "*having flow*"
-msgstr ""
+msgstr "*иметь поток*"
 
 #: ../../source/quality.rst:56
 msgid "*fitting to human needs*"
-msgstr ""
+msgstr "*удовлетворять человеческие потребности*"
 
 #: ../../source/quality.rst:57
 msgid "*being beautiful*"
-msgstr ""
+msgstr "*быть красивой*"
 
 #: ../../source/quality.rst:58
 msgid "*anticipating the user*"
-msgstr ""
+msgstr "*Предвидеть пользователя*"
 
 #: ../../source/quality.rst:60
 msgid ""
@@ -126,20 +159,26 @@ msgid ""
 "measured, but they can still be clearly identified. When we encounter them, "
 "we usually (not always, because we need to be capable of it) recognise them."
 msgstr ""
+"В отличие от характеристик функционального качества, они не могут быть "
+"проверены или измерены, но все же могут быть четко идентифицированы. Когда "
+"мы сталкиваемся с ними, мы обычно (не всегда, потому что мы должны быть "
+"способны на это) распознаем их."
 
 #: ../../source/quality.rst:65
 msgid "They are characteristics of *deep quality*."
-msgstr ""
+msgstr "Они являются характеристиками *Глубокое качество*."
 
 #: ../../source/quality.rst:69
 msgid "What's the difference?"
-msgstr ""
+msgstr "В чем разница?"
 
 #: ../../source/quality.rst:71
 msgid ""
 "Aspects of deep quality seem to be genuinely distinct in kind from the "
 "characteristics of functional quality."
 msgstr ""
+"Аспекты глубокого качества кажутся действительно отличными от характеристик "
+"функционального качества."
 
 #: ../../source/quality.rst:74
 msgid ""
@@ -148,6 +187,10 @@ msgid ""
 "accurate and consistent (and even very useful) but which is also awkward and"
 " unpleasant to use."
 msgstr ""
+"Документация может отвечать всем требованиям функционального качества, но "
+"при этом не обладать глубоким качеством. Существует множество примеров "
+"документации, которая является точной и последовательной (и даже очень "
+"полезной), но в то же время неудобной и неприятной в использовании."
 
 #: ../../source/quality.rst:79
 msgid ""
@@ -157,6 +200,12 @@ msgid ""
 "user* are aspects of each other - they are **interdependent**. It's hard to "
 "see how something could feel good to use without fitting to our needs."
 msgstr ""
+"Также заметно, что, хотя характеристики функционального качества, такие как "
+"полнота и точность, являются **независимый** друг друга, характеристики "
+"глубокого качества трудно распутать. *иметь поток* и *Предвидеть "
+"пользователя* являются аспектами друг друга - это **взаимозависимый**. "
+"Трудно понять, как что-то может быть хорошо использовано без удовлетворения "
+"наших потребностей."
 
 #: ../../source/quality.rst:85
 msgid ""
@@ -166,6 +215,11 @@ msgid ""
 "enquired into, interrogated. Instead of taking **measurements**, we must "
 "make **judgements**."
 msgstr ""
+"Аспекты функционального качества можно измерить — буквально, с цифрами, в "
+"некоторых случаях (рассмотреть полноту). Это невозможно с такими качествами,"
+" как *иметь поток*. Вместо этого такие качества можно только исследовать, "
+"допрашивать. Вместо того, чтобы принимать **измерения**, мы должны сделать "
+"**решения**."
 
 #: ../../source/quality.rst:91
 msgid ""
@@ -175,6 +229,11 @@ msgid ""
 "the world. It’s **subjective**, which means that we can assess it only in "
 "the light of the needs of the subject of experience, the human."
 msgstr ""
+"Функциональным качеством является **объективный** - он принадлежит миру. "
+"Точность документации означает степень ее соответствия миру, который она "
+"пытается описать. Глубокое качество не может быть установлено, удерживая "
+"что-то в мире. Это **субъективный**, что означает, что мы можем оценить его "
+"только в свете потребностей субъекта опыта, человека."
 
 #: ../../source/quality.rst:97
 msgid ""
@@ -186,6 +245,14 @@ msgid ""
 "inconsistent. The moment we run into such lapses the experience of "
 "documentation is tarnished."
 msgstr ""
+"Глубокое качество **условный** по функциональному качеству. Документация "
+"может быть точной, полной и последовательной, не будучи действительно "
+"превосходной, но она никогда не будет иметь глубокого качества, не будучи "
+"точной, полной и последовательной. Ни один пользователь документации не "
+"будет воспринимать ее как красивую, если она неточна, или наслаждаться тем, "
+"как она предвосхищает их потребности, если она непоследовательна. В тот "
+"момент, когда мы сталкиваемся с такими упущениями, опыт документации "
+"запятнан."
 
 #: ../../source/quality.rst:105
 msgid ""
@@ -199,50 +266,60 @@ msgid ""
 "attain functional quality in our work, we must *conform* to constraints; to "
 "attain deep quality we must *invent*."
 msgstr ""
+"Наконец, все характеристики функционального качества предстают перед нами, "
+"как создатели документации, как бремена и **ограничения**. Каждый из них "
+"представляет собой испытание или вызов, который мы можем потерпеть неудачу. "
+"Или, даже если мы встретили один *теперь*, мы никогда не сможем отдохнуть, "
+"потому что следующий релиз или обновление означает, что нам придется еще раз"
+" проверить нашу работу. С другой стороны, такие характеристики, как "
+"предвосхищение потребностей или потока, представляют собой **освобождение**,"
+" произведение творчества или вкуса. Чтобы достичь функционального качества в"
+" нашей работе, мы должны *соответствовать* к ограничениям; для достижения "
+"глубокого качества мы должны *изобретать*."
 
 #: ../../source/quality.rst:120
 msgid "independent characteristics"
-msgstr ""
+msgstr "Независимые характеристики"
 
 #: ../../source/quality.rst:121
 msgid "interdependent characteristics"
-msgstr ""
+msgstr "взаимозависимые характеристики"
 
 #: ../../source/quality.rst:122
 msgid "objective"
-msgstr ""
+msgstr "объективный"
 
 #: ../../source/quality.rst:123
 msgid "subjective"
-msgstr ""
+msgstr "субъективный"
 
 #: ../../source/quality.rst:124
 msgid "measured against the world"
-msgstr ""
+msgstr "измеряется по отношению к миру"
 
 #: ../../source/quality.rst:125
 msgid "assessed against the human"
-msgstr ""
+msgstr "Оценивается по отношению к человеку"
 
 #: ../../source/quality.rst:126
 msgid "a condition of deep quality"
-msgstr ""
+msgstr "Состояние глубокого качества"
 
 #: ../../source/quality.rst:127
 msgid "conditional upon functional quality"
-msgstr ""
+msgstr "обусловлено функциональным качеством"
 
 #: ../../source/quality.rst:128
 msgid "aspects of constraint"
-msgstr ""
+msgstr "аспекты ограничения"
 
 #: ../../source/quality.rst:129
 msgid "aspects of liberation"
-msgstr ""
+msgstr "аспекты освобождения"
 
 #: ../../source/quality.rst:133
 msgid "How we recognise deep quality"
-msgstr ""
+msgstr "Как распознать высокое качество"
 
 #: ../../source/quality.rst:135
 msgid ""
@@ -252,6 +329,11 @@ msgid ""
 " know much about clothes to assess how well they do those things. If water "
 "gets in, or the clothing falls apart - it lacks quality."
 msgstr ""
+"Рассмотрим, как мы оцениваем качество, скажем, одежды. Одежда должна иметь "
+"*функциональное качество* (они должны держать нас соответственно теплыми и "
+"сухими, вставать, чтобы носить). Эти вещи объективно измеримы. Вам не нужно "
+"много знать об одежде, чтобы оценить, насколько хорошо они это делают. Если "
+"вода попадает внутрь, или одежда разваливается — ей не хватает качества."
 
 #: ../../source/quality.rst:141
 msgid ""
@@ -263,6 +345,12 @@ msgid ""
 "developing at least a basic eye for those things. And these are its "
 "characteristics of *deep quality*."
 msgstr ""
+"Есть и другие характеристики качества одежды, которые не могут быть просто "
+"измерены объективно, и чтобы распознать эти характеристики, мы должны иметь "
+"представление об одежде. Качество материалов или изготовления не всегда "
+"сразу очевидно. Умение судить о том, что предмет одежды хорошо висит, хорошо"
+" двигается или был умело сформирован, требует разработки хотя бы базового "
+"взгляда на эти вещи. И это его характеристики *Глубокое качество*."
 
 #: ../../source/quality.rst:149
 msgid ""
@@ -273,6 +361,12 @@ msgid ""
 " required to realise that clothing does or doesn't feel comfortable as you "
 "move in it, that it fits and moves with you well. *Your body knows it*."
 msgstr ""
+"Но даже тот, кто не может распознать или не понимает эти характеристики, кто"
+" не может сказать *что*, все еще может очень хорошо распознать *это*, потому"
+" что они считают, что **Приятно носить** таков, что они хотят его носить. Не"
+" требуется никакого опыта, чтобы понять, что одежда чувствует или не "
+"чувствует себя комфортно, когда вы двигаетесь в ней, что она хорошо подходит"
+" и движется с вами. *Ваше тело знает это*."
 
 #: ../../source/quality.rst:156
 msgid ""
@@ -282,6 +376,11 @@ msgid ""
 "documentation **feels good**; you feel pleasure and satisfaction when you "
 "use it - it feels like it fits and moves with you."
 msgstr ""
+"То же самое и в документации. Возможно, вам нужно быть знатоком, чтобы "
+"распознать *что*, но это не обязательно, чтобы быть в состоянии реализовать "
+"*это*. Хорошая документация **Хорошо себя чувствую**; вы чувствуете "
+"удовольствие и удовлетворение, когда используете его - он чувствует, что он "
+"подходит и движется с вами."
 
 #: ../../source/quality.rst:162
 msgid ""
@@ -291,6 +390,11 @@ msgid ""
 "deeper excellence. That doesn't matter - it will feel good, or not, and "
 "that's what is important."
 msgstr ""
+"Пользователи нашей документации могут иметь или не иметь понимания, чтобы "
+"сказать, почему это хорошо, или где его качество пропадает. Они могут "
+"распознавать только более очевидные аспекты функционального качества, "
+"принимая их за более глубокое совершенство. Это не имеет значения - будет "
+"хорошо или нет, и это то, что важно."
 
 #: ../../source/quality.rst:168
 msgid ""
@@ -300,14 +404,19 @@ msgid ""
 " to develop an understanding of how people will *feel* when they're using "
 "it."
 msgstr ""
+"Но нам, как его создателям, необходимо четкое и эффективное понимание того, "
+"что делает документацию хорошей. Мы должны развивать наше понимание этого, "
+"чтобы признать, что *что* хорош в этом, а также *это* хорош. И нам нужно "
+"понять, как люди будут использовать *чувствовать*."
 
 #: ../../source/quality.rst:173
 msgid "Producing work of deep quality depends on our ability to do this."
 msgstr ""
+"Производство качественной работы зависит от нашей способности это сделать."
 
 #: ../../source/quality.rst:177
 msgid "Diátaxis and quality"
-msgstr ""
+msgstr "Диатаксис и качество"
 
 #: ../../source/quality.rst:179
 msgid ""
@@ -316,6 +425,10 @@ msgid ""
 "knowledge of the technical domain, the ability to gather up a complete "
 "terrain into a single, coherent, consistent map of it."
 msgstr ""
+"Обязательства функционального качества выполняются путем добросовестного "
+"соблюдения требований к оформлению документации. Они требуют солидного "
+"мастерства и знания технической области, умения собрать полную местность в "
+"единую, последовательную, последовательную карту."
 
 #: ../../source/quality.rst:184
 msgid ""
@@ -324,16 +437,22 @@ msgid ""
 " though if all the aspects of deep quality are tangled up in each other, "
 "then it affects all of them."
 msgstr ""
+"**Diátaxis не может обеспечить функциональное качество документации.** "
+"Система касается лишь некоторых аспектов глубинного качества — одних в "
+"большей степени, других в меньшей. Однако эти аспекты связаны между собой, "
+"поэтому влияние затрагивает их все."
 
 #: ../../source/quality.rst:191
 msgid "Exposing lapses in functional quality"
-msgstr ""
+msgstr "Выявление недостатков в функциональном качестве"
 
 #: ../../source/quality.rst:193
 msgid ""
 "Although Diátaxis cannot address, or *give* us, functional quality, it can "
 "still serve it."
 msgstr ""
+"Хотя Diátaxis не может обращаться к функциональному качеству *давать*, он "
+"все равно может его обслуживать."
 
 #: ../../source/quality.rst:196
 msgid ""
@@ -342,6 +461,10 @@ msgid ""
 "documentation is that problems in it suddenly become apparent that were "
 "obscured before."
 msgstr ""
+"Он очень эффективно работает с ошибками *подвергать* в функциональном "
+"качестве. Часто отмечается, что одним из последствий применения Диатаксиса к"
+" существующей документации является то, что проблемы в ней внезапно "
+"становятся очевидными."
 
 #: ../../source/quality.rst:200
 msgid ""
@@ -350,6 +473,10 @@ msgid ""
 "documents <respect-structure>`. This makes gaps in the documentation much "
 "more clearly visible."
 msgstr ""
+"Например, подход Diátaxis рекомендует использовать :ref:`архитектура "
+"справочной документации должна отражать архитектуру кода, который она "
+"документирует; <respect-structure>`. Это делает пробелы в документации более"
+" заметными."
 
 #: ../../source/quality.rst:205
 msgid ""
@@ -357,20 +484,26 @@ msgid ""
 "Diátaxis demands) often has the effect of highlighting a section where the "
 "reader has been left to work something out for themselves."
 msgstr ""
+"Или перемещение объяснительного словаря из учебного пособия (в соответствии "
+"с требованиями Диатаксиса) часто приводит к выделению раздела, в котором "
+"читателю было предоставлено что-то для себя."
 
 #: ../../source/quality.rst:209
 msgid ""
 "But, as far as functional quality goes, Diátaxis principles can have only an"
 " *analytical* role."
 msgstr ""
+"Но, что касается функционального качества, принципы диатаксиса могут играть "
+"только роль *аналитический*."
 
 #: ../../source/quality.rst:214
 msgid "Creating deep quality"
-msgstr ""
+msgstr "Создание глубокого качества"
 
 #: ../../source/quality.rst:216
 msgid "In deep quality on the other hand, the Diátaxis approach can do more."
 msgstr ""
+"С другой стороны, в глубоком качестве подход Diátaxis может сделать больше."
 
 #: ../../source/quality.rst:218
 msgid ""
@@ -378,6 +511,9 @@ msgid ""
 "documentation modes that are based on them; its categories exist as a "
 "response to needs."
 msgstr ""
+"Например, он помогает документировать *Подходящие пользовательские "
+"потребности*, описывая основанные на них режимы документации; его категории "
+"существуют как ответ на потребности."
 
 #: ../../source/quality.rst:222
 msgid ""
@@ -386,6 +522,10 @@ msgid ""
 "form and language adopted in different parts of documentation - as a way of "
 "fitting to user needs."
 msgstr ""
+"Тогда мы должны обратить внимание на правильную организацию этих категорий, "
+"а также на расположение ее материала и отношений внутри них, на форму и "
+"язык, принятые в разных частях документации, - как на способ приспособления "
+"к потребностям пользователя."
 
 #: ../../source/quality.rst:227
 msgid ""
@@ -395,6 +535,11 @@ msgid ""
 "with both our concerns of the moment, and the way our minds and bodies work "
 "in general."
 msgstr ""
+"Или, в Diátaxis мы непосредственно связаны с *поток*. В потоке — будь то "
+"документация или что-то еще — мы испытываем движение от одной стадии или "
+"состояния к другому, которое кажется правильным, невынужденным и "
+"сочувствующим как нашим проблемам момента, так и тому, как работают наши умы"
+" и тела в целом."
 
 #: ../../source/quality.rst:233
 msgid ""
@@ -403,26 +548,33 @@ msgid ""
 "towards it (for example when a digression into explanation interrupts a how-"
 "to guide)."
 msgstr ""
+"Диатаксис сохраняет поток, помогая предотвратить нарушение ритма, которое "
+"происходит, когда что-то пересекает нашу цель и неуклонно продвигается к ней"
+" (например, когда отступление в объяснение прерывает руководство)."
 
 #: ../../source/quality.rst:238
 msgid "And so on."
-msgstr ""
+msgstr "И так далее."
 
 #: ../../source/quality.rst:242
 msgid "Understanding the limits"
-msgstr ""
+msgstr "Понимание границ"
 
 #: ../../source/quality.rst:244
 msgid ""
 "It's important to understand that Diátaxis can never be *all* that is "
 "required in the pursuit of deep quality."
 msgstr ""
+"Важно понимать, что Diátaxis никогда не может быть *все*, который необходим "
+"для достижения высокого качества."
 
 #: ../../source/quality.rst:247
 msgid ""
 "For example, while it can *help* attain beauty in documentation, at least in"
 " its overall form, it doesn't by itself *make documentation beautiful*."
 msgstr ""
+"Например, хотя *помочь* может достичь красоты в документации, по крайней "
+"мере, в ее общей форме, он сам по себе не *Сделайте документацию красивой*."
 
 #: ../../source/quality.rst:250
 msgid ""
@@ -431,6 +583,10 @@ msgid ""
 "insights of disciplines such as user experience or user interaction design, "
 "or even visual design."
 msgstr ""
+"Диатаксис предлагает набор принципов — он не предлагает формулу. Это, "
+"конечно, не может предложить короткий путь к успеху, минуя навыки и "
+"понимание дисциплин, таких как пользовательский опыт или дизайн "
+"взаимодействия с пользователем, или даже визуальный дизайн."
 
 #: ../../source/quality.rst:255
 msgid ""
@@ -439,3 +595,8 @@ msgid ""
 "reinvented. But what Diátaxis *can* do is lay down some conditions for the "
 "*possibility* of deep quality in documentation."
 msgstr ""
+"Использование Diátaxis не гарантирует высокого качества. Характеристики "
+"глубокого качества постоянно пересматриваются, переосмысливаются, заново "
+"открываются и заново изобретаются. Но что делает Diátaxis *может*, так это "
+"закладывает некоторые условия для глубокого качества документации "
+"*возможность*."

@@ -1,0 +1,7 @@
+.build
+_build
+env
+.git
+.github
+translation/*/LC_MESSAGES/*.mo
+

@@ -2,7 +2,7 @@
 # Copyright (C) Daniele Procida
 # This file is distributed under the same license as the Diátaxis package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
@@ -10,36 +10,41 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-08-01 12:29+0200\n"
 "PO-Revision-Date: 2026-07-07 20:49+0000\n"
-"Language-Team: Russian (https://app.transifex.com/danieleprocida/teams/120528/ru/)\n"
+"Last-Translator: Danil Pismenny <danil@pismenny.ru>\n"
+"Language-Team: Russian\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ru\n"
 "Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
 
 #: ../../source/colophon.rst:2
 msgid "Colophon"
-msgstr ""
+msgstr "Колофон"
 
 #: ../../source/colophon.rst:4
 msgid "Diátaxis is the work of `Daniele Procida <https://vurt.eu>`_."
-msgstr ""
+msgstr "Diátaxis — работа `Даниэле Прочида <https://vurt.eu>`_."
 
 #: ../../source/colophon.rst:6
 msgid ""
 "It has been developed over a number of years, and continues to be elaborated"
 " and explored."
 msgstr ""
+"Он разрабатывался в течение ряда лет и продолжает разрабатываться и "
+"исследоваться."
 
 #: ../../source/colophon.rst:12
 msgid "Contact me"
-msgstr ""
+msgstr "Свяжитесь со мной"
 
 #: ../../source/colophon.rst:14
 msgid ""
 "`Email me <daniele@vurt.org>`_. I enjoy hearing about other people's "
 "experiences with Diátaxis and read everything I receive."
 msgstr ""
+"`Напишите мне по электронной почте <daniele@vurt.org>`_. Мне нравится "
+"слышать об опыте других людей с Diátaxis, и я читаю все, что получаю."
 
 #: ../../source/colophon.rst:16
 msgid ""
@@ -47,6 +52,8 @@ msgid ""
 "considerable quantity of email related to Diátaxis and I can't promise to "
 "respond to every message."
 msgstr ""
+"Я ценю весь интерес и стараюсь ответить, но я получаю большое количество "
+"писем, связанных с Diátaxis, и не могу обещать отвечать на каждое сообщение."
 
 #: ../../source/colophon.rst:18
 msgid ""
@@ -57,10 +64,16 @@ msgid ""
 "section of the `GitHub repository for this website "
 "<https://github.com/evildmp/diataxis-documentation-framework>`_."
 msgstr ""
+"Если вы хотите обсудить Diátaxis с другими пользователями, посетите канал "
+"*#диатаксис* на `Напишите группу Docs Slack. "
+"<https://www.writethedocs.org/slack/>`_ или раздел `Обсуждения "
+"<https://github.com/evildmp/diataxis-documentation-framework/discussions>`_ "
+"на `Репозиторий GitHub для этого сайта <https://github.com/evildmp/diataxis-"
+"documentation-framework>`_."
 
 #: ../../source/colophon.rst:25
 msgid "Origins and development"
-msgstr ""
+msgstr "Истоки и развитие"
 
 #: ../../source/colophon.rst:27
 msgid ""
@@ -69,12 +82,18 @@ msgid ""
 "between 2014-2021. I still agree with most of it, though there are several "
 "aspects that I now think I got wrong."
 msgstr ""
+"Вы можете найти `более раннее представление некоторых из этих идей "
+"<https://documentation.divio.com>`_, который я создал, работая в Divio в "
+"период с 2014 по 2021 год. Я по-прежнему согласен с большей частью этого, "
+"хотя есть некоторые аспекты, в которых, как мне кажется, я ошибся."
 
 #: ../../source/colophon.rst:29
 msgid ""
 "The original context for the Diátaxis approach was limited to software "
 "product documentation."
 msgstr ""
+"Исходный контекст подхода Diátaxis ограничивался документацией по "
+"программному продукту."
 
 #: ../../source/colophon.rst:31
 msgid ""
@@ -85,6 +104,12 @@ msgid ""
 "corporate documentation, organisational management and education, and also "
 "its application at scale. This work is on-going."
 msgstr ""
+"В 2021 году я получил стипендию `Институт устойчивости программного "
+"обеспечения <http://software.ac.uk/blog/sorry-state-usable-software-open-"
+"science-results-open-science-retreat>`_ для изучения ее применения в "
+"контексте научных исследований. Совсем недавно я исследовал его применение "
+"во внутренней корпоративной документации, организационном управлении и "
+"образовании, а также его применение в масштабе. Эта работа продолжается."
 
 #: ../../source/colophon.rst:33
 msgid ""
@@ -92,15 +117,20 @@ msgid ""
 " Diátaxis to note-taking systems and even as part of a systematic approach "
 "to household management."
 msgstr ""
+"Другие люди переписывались со мной, чтобы поделиться своим опытом применения"
+" Diátaxis в системах ведения заметок и даже в рамках систематического "
+"подхода к ведению домашнего хозяйства."
 
 #: ../../source/colophon.rst:37
 msgid "Citation and contribution"
-msgstr ""
+msgstr "Цитирование и вклад"
 
 #: ../../source/colophon.rst:39
 msgid ""
 "To cite Diátaxis, please refer to :doc:`this website, diataxis.fr <index>`."
 msgstr ""
+"Чтобы процитировать Diátaxis, обратитесь к :doc:`этот сайт, diataxis.fr "
+"<index>`."
 
 #: ../../source/colophon.rst:41
 msgid ""
@@ -108,12 +138,17 @@ msgid ""
 "`CITATION.cff <https://github.com/evildmp/diataxis-documentation-"
 "framework/blob/main/CITATION.cff>`_."
 msgstr ""
+"Репозиторий Git исходного материала содержит файл цитирования `ЦИТАЦИЯ.cff "
+"<https://github.com/evildmp/diataxis-documentation-"
+"framework/blob/main/CITATION.cff>`_."
 
 #: ../../source/colophon.rst:44
 msgid ""
 "APA and BibTeX metadata are available from the *Cite this repository* option"
 " at https://github.com/evildmp/diataxis-documentation-framework."
 msgstr ""
+"Метаданные APA и BibTeX доступны из опции *Ссылка на этот репозиторий* в "
+"https://github.com/evildmp/diataxis-documentation-framework.."
 
 #: ../../source/colophon.rst:47
 msgid ""
@@ -121,6 +156,9 @@ msgid ""
 "or `file an issue <https://github.com/evildmp/diataxis-documentation-"
 "framework/issues>`_."
 msgstr ""
+"Вы также можете отправить запрос на включение, чтобы предложить улучшение "
+"или исправление, или `сообщить о проблеме "
+"<https://github.com/evildmp/diataxis-documentation-framework/issues>`_."
 
 #: ../../source/colophon.rst:50
 msgid ""
@@ -128,10 +166,13 @@ msgid ""
 "possible for me to keep up with requests to have projects listed here as "
 "examples of Diátaxis adoption."
 msgstr ""
+"Diátaxis сейчас используется в нескольких сотнях проектов, и я больше не "
+"могу отвечать на запросы о перечислении проектов здесь в качестве примеров "
+"внедрения Diátaxis."
 
 #: ../../source/colophon.rst:54
 msgid "Website"
-msgstr ""
+msgstr "Веб-сайт"
 
 #: ../../source/colophon.rst:56
 msgid ""
@@ -140,3 +181,7 @@ msgid ""
 "`Pradyun Gedam <https://pradyunsg.me/>`_'s `Furo "
 "<https://github.com/pradyunsg/furo>`_ theme."
 msgstr ""
+"Этот веб-сайт создан на основе `Сфинкс <https://www.sphinx-doc.org>`_ и "
+"размещен на `Прочтите документацию <http://readthedocs.org>`_ с "
+"использованием модифицированной версии темы `Прадьюн Гедам "
+"<https://pradyunsg.me/>`_ `Фуро <https://github.com/pradyunsg/furo>`_."

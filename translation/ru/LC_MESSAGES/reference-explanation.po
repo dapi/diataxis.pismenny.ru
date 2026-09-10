@@ -2,7 +2,7 @@
 # Copyright (C) Daniele Procida
 # This file is distributed under the same license as the Diátaxis package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
@@ -10,16 +10,17 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-08-01 12:29+0200\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
-"Language-Team: Russian (https://app.transifex.com/danieleprocida/teams/120528/ru/)\n"
+"Last-Translator: Danil Pismenny <danil@pismenny.ru>\n"
+"Language-Team: Russian\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ru\n"
 "Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
 
 #: ../../source/reference-explanation.rst:4
 msgid "The difference between reference and explanation"
-msgstr ""
+msgstr "Разница между ссылкой и объяснением"
 
 #: ../../source/reference-explanation.rst:6
 msgid ""
@@ -27,6 +28,8 @@ msgid ""
 "map - they don't contain steps to guide the reader, they contain theoretical"
 " knowledge."
 msgstr ""
+"Объяснение и ссылка относятся к *теория* половине карты Диатаксиса — они не "
+"содержат шагов для руководства читателем, они содержат теоретические знания."
 
 #: ../../source/reference-explanation.rst:9
 msgid ""
@@ -35,10 +38,13 @@ msgid ""
 "knowledge, and its *application*. In other words it's the distinction "
 "between *study* and *work*."
 msgstr ""
+"Разница между ними - так же, как в разнице между учебными пособиями и "
+"руководствами - разница между *приобретение* навыков и знаний и его "
+"*приложение*. Другими словами, это различие между *исследование* и *работа*."
 
 #: ../../source/reference-explanation.rst:15
 msgid "A straightforward distinction, *mostly*"
-msgstr ""
+msgstr "Простое различие, *в основном*"
 
 #: ../../source/reference-explanation.rst:17
 msgid ""
@@ -46,6 +52,9 @@ msgid ""
 "one or the other. *Reference*, as a form of writing, is well understood; "
 "it's used in distinctions we make about writing from an early age."
 msgstr ""
+"В основном довольно легко понять, имеете ли вы дело с тем или иным. "
+"*Ссылка*, как форма письма, хорошо понимается; он используется в различиях, "
+"которые мы делаем о письме с раннего возраста."
 
 #: ../../source/reference-explanation.rst:21
 msgid ""
@@ -54,20 +63,26 @@ msgid ""
 "material. An article that explains *why* there are tides and how they behave"
 " is self-evidently explanation."
 msgstr ""
+"Кроме того, примеры написания сами по себе часто явно одно или другое. "
+"Приливная диаграмма с ее таблицами фигур является явно справочным "
+"материалом. Статья, которая объясняет, что *почему* есть приливы и как они "
+"ведут себя, является самоочевидным объяснением."
 
 #: ../../source/reference-explanation.rst:25
 msgid "There are good rules of thumb:"
-msgstr ""
+msgstr "Есть хорошие правила большого пальца:"
 
 #: ../../source/reference-explanation.rst:27
 msgid "**If it's boring and unmemorable** it's probably *reference*."
-msgstr ""
+msgstr "**Если это скучно и незабываемо**, вероятно, *ссылка*."
 
 #: ../../source/reference-explanation.rst:29
 msgid ""
 "**Lists of things** (such as classes or methods or attributes), and **tables"
 " of information**, will generally turn out to belong in *reference*."
 msgstr ""
+"**Список вещей** (такие как классы, методы или атрибуты) и **таблицы "
+"информации**, как правило, принадлежат к *ссылка*."
 
 #: ../../source/reference-explanation.rst:31
 msgid ""
@@ -75,6 +90,9 @@ msgid ""
 "probably, it's *explanation* (even if really there is no accounting for what"
 " people might read in the bath)."
 msgstr ""
+"С другой стороны, **Если вы можете себе представить, что читаете что-то в "
+"ванной**, вероятно, это *объяснение* (даже если действительно нет учета "
+"того, что люди могут читать в ванне)."
 
 #: ../../source/reference-explanation.rst:33
 msgid ""
@@ -82,10 +100,13 @@ msgid ""
 "tell me more about <topic>?** - the answer or discussion that follows is "
 "most likely going to be an *explanation* of it."
 msgstr ""
+"Представьте, что вы спрашиваете друга, гуляя или выпивая, **Можете ли вы "
+"рассказать больше о теме?** - ответ или обсуждение, которое следует, скорее "
+"всего, будет *объяснение*."
 
 #: ../../source/reference-explanation.rst:39
 msgid "... but intuition isn't reliable enough"
-msgstr ""
+msgstr "Но интуиция недостаточно надежна."
 
 #: ../../source/reference-explanation.rst:41
 msgid ""
@@ -93,6 +114,9 @@ msgid ""
 "reference and explanations. But only *mostly* - because it's also quite easy"
 " to slip between one form and the other."
 msgstr ""
+"В основном мы можем полагаться на интуицию, чтобы управлять различием между "
+"ссылками и объяснениями. Но только *в основном* - потому что между одной "
+"формой и другой довольно легко проскользнуть."
 
 #: ../../source/reference-explanation.rst:45
 msgid ""
@@ -103,6 +127,12 @@ msgid ""
 " them into explanation (using them to say *why*, or show *what if*, or how "
 "it came to be)."
 msgstr ""
+"Обычно это происходит при написании справочного материала, который начинает "
+"расширяться. Например, вполне разумно включать иллюстративные примеры в "
+"ссылку (так же, как энциклопедия может содержать иллюстрации), но примеры — "
+"это забавные вещи для развития, и может быть заманчиво развить их в "
+"объяснение (используя их, чтобы сказать *почему*, или показать *Что если*, "
+"или как это произошло)."
 
 #: ../../source/reference-explanation.rst:50
 msgid ""
@@ -111,10 +141,14 @@ msgid ""
 "it's bad for the explanation too, because it's not allowed to develop "
 "appropriately and do its own work."
 msgstr ""
+"В результате часто можно найти объяснительный материал, посыпанный в ссылку."
+" Это плохо для ссылки, прерывается и затемняется отступлениями. Но это плохо"
+" и для объяснения, потому что не позволяет развиваться должным образом и "
+"делать свою работу."
 
 #: ../../source/reference-explanation.rst:56
 msgid "Work and study"
-msgstr ""
+msgstr "Работа и учеба"
 
 #: ../../source/reference-explanation.rst:58
 msgid ""
@@ -124,6 +158,10 @@ msgid ""
 "task? Or is it something they'd need once they have stepped away from the "
 "work, and want to think about it?"
 msgstr ""
+"Настоящий тест, однако, если мы сомневаемся в том, что что-то должно быть "
+"ссылкой или объяснением: это то, к чему кто-то обратился бы во время работы,"
+" то есть, на самом деле получая что-то сделано, выполняя задачу? Или это то,"
+" что им нужно, как только они отойдут от работы и захотят подумать об этом?"
 
 #: ../../source/reference-explanation.rst:64
 msgid ""
@@ -131,25 +169,34 @@ msgid ""
 "reflect how, at that moment, the reader stands in relation to the craft in "
 "question, in a relationship of *work* or *study*."
 msgstr ""
+"Это два очень принципиально разных *потребности* читателя, которые отражают,"
+" как в этот момент читатель стоит по отношению к рассматриваемому ремеслу, в"
+" отношениях *работа* или *исследование*."
 
 #: ../../source/reference-explanation.rst:69
 msgid "To help avoid being misled by intuition, see :ref:`compass`."
-msgstr ""
+msgstr "Чтобы избежать обмана интуицией, см. :ref:`compass`."
 
 #: ../../source/reference-explanation.rst:71
 msgid ""
 "**Reference** is what a user needs in order help *apply* knowledge and "
 "skill, while they are working."
 msgstr ""
+"**Ссылка** - это то, что нужно пользователю, чтобы помочь знаниям и навыкам "
+"*применять*, пока они работают."
 
 #: ../../source/reference-explanation.rst:74
 msgid ""
 "**Explanation** is what someone will turn to to help them *acquire* "
 "knowledge and skill - \"study\"."
 msgstr ""
+"**Объяснение** - это то, к чему кто-то обратится, чтобы помочь им знания и "
+"навыки *приобретать* - «изучение»."
 
 #: ../../source/reference-explanation.rst:78
 msgid ""
 "Understanding those two relationships and responding to the needs in them is"
 " the key to creating effective reference and explanation."
 msgstr ""
+"Понимание этих двух отношений и удовлетворение потребностей в них является "
+"ключом к созданию эффективных ссылок и объяснений."
