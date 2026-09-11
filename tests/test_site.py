@@ -21,6 +21,7 @@ assert_contains(
         'lang="ru"',
         "Системный подход к созданию технической документации",
         "Учебные руководства",
+        'src="_images/diataxis.ru.png"',
         "https://diataxis.fr/",
         "https://creativecommons.org/licenses/by-sa/4.0/",
         "https://pismenny.ru/",
@@ -28,8 +29,13 @@ assert_contains(
 )
 assert_contains(
     SITE / "en" / "index.html",
-    ['lang="en"', "A systematic approach to technical documentation authoring"],
+    [
+        'lang="en"',
+        "A systematic approach to technical documentation authoring",
+        'src="_images/diataxis.png"',
+    ],
 )
+assert (SITE / "_images" / "diataxis.ru.png").is_file()
 
 for page in root_pages:
     text = page.read_text(encoding="utf-8")
