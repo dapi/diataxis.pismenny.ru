@@ -3,13 +3,12 @@
 # This file is distributed under the same license as the Diátaxis package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Diátaxis\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-08-01 12:29+0200\n"
-"PO-Revision-Date: 2026-07-06 20:18+0000\n"
+"PO-Revision-Date: 2026-09-11 00:00+0300\n"
 "Last-Translator: Danil Pismenny <danil@pismenny.ru>\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
@@ -33,9 +32,9 @@ msgid ""
 "<theory>`, but understanding them is not necessary to make effective use of "
 "the system."
 msgstr ""
-"Diátaxis опирается на :doc:`систематические теоретические принципы "
-"<theory>`, но их понимание не обязательно для эффективного использования "
-"системы."
+"В основе Diátaxis лежат :doc:`систематические теоретические принципы "
+"<theory>`, но разбираться в них необязательно, чтобы эффективно пользоваться "
+"системой."
 
 #: ../../source/application.rst:11
 msgid ""
@@ -43,9 +42,9 @@ msgid ""
 " documentation. Most of the key principles required to put it into practice "
 "successfully can be grasped intuitively."
 msgstr ""
-"Diátaxis в первую очередь предназначен как прагматичный подход для людей, "
-"работающих над документацией. Большинство ключевых принципов, необходимых "
-"для успешного применения на практике, можно понять интуитивно."
+"Diátaxis — прежде всего практический подход для тех, кто работает над "
+"документацией. Большинство ключевых принципов, необходимых для его успешного "
+"применения, можно понять интуитивно."
 
 #: ../../source/application.rst:13
 msgid ""
@@ -54,10 +53,10 @@ msgid ""
 "you will not understand it until you have started using it (this itself is a"
 " Diátaxis principle)."
 msgstr ""
-"Не откладывайте понимание Diátaxis, прежде чем начать применять его на "
-"практике. Вам не только не нужно все это понимать, чтобы использовать, вы не"
-" поймете этого, пока не начнете его использовать (это само по себе является "
-"принципом Diátaxis)."
+"Не ждите, пока полностью разберётесь в Diátaxis, прежде чем применять его на "
+"практике. Чтобы пользоваться системой, необязательно понимать её целиком. "
+"Более того, вы не поймёте её, пока не начнёте ею пользоваться (это само по "
+"себе — принцип Diátaxis)."
 
 #: ../../source/application.rst:15
 msgid ""
@@ -65,10 +64,10 @@ msgid ""
 "your work, try applying it. Come back here when you need more clarity or "
 "reassurance. Iterate between your work and reflecting on your work."
 msgstr ""
-"Как только вы почувствуете, что уловили идею, которую стоит применить в "
-"своей работе, попробуйте применить ее. Возвращайтесь сюда, когда вам "
-"понадобится больше ясности или уверенности. Переключайтесь между своей "
-"работой и размышлениями о ней."
+"Как только вам покажется, что вы уловили идею, которую стоит применить в работе, сразу "
+"попробуйте это сделать. Возвращайтесь сюда, когда понадобятся дополнительные "
+"пояснения или уверенность в выбранном пути. Чередуйте работу с её "
+"осмыслением."
 
 #: ../../source/application.rst:20
 msgid "In this section"
@@ -80,25 +79,24 @@ msgid ""
 "identifies. If you're encountering Diátaxis for the first time, start with "
 "these pages."
 msgstr ""
-"В основе Diátaxis лежат четыре различных типа документации, которые он "
-"идентифицирует. Если вы впервые сталкиваетесь с Diátaxis, начните с этих "
-"страниц."
+"В основе Diátaxis лежат четыре типа документации. Если вы впервые знакомитесь "
+"с Diátaxis, начните с этих страниц."
 
 #: ../../source/application.rst:24
 msgid ":doc:`tutorials` - learning-oriented experiences"
-msgstr ":doc:`tutorials` – опыт, ориентированный на обучение"
+msgstr ":doc:`tutorials` — практический опыт, ориентированный на обучение"
 
 #: ../../source/application.rst:25
 msgid ":doc:`how-to-guides` - goal-oriented directions"
-msgstr ":doc:`how-to-guides` - целенаправленные направления"
+msgstr ":doc:`how-to-guides` — инструкции для достижения конкретной цели"
 
 #: ../../source/application.rst:26
 msgid ":doc:`reference` - information-oriented technical description"
-msgstr ":doc:`reference` - информационно-ориентированное техническое описание"
+msgstr ":doc:`reference` — техническое описание, предоставляющее информацию"
 
 #: ../../source/application.rst:27
 msgid ":doc:`explanation` - understanding-oriented discussion"
-msgstr ":doc:`explanation` - обсуждение, ориентированное на понимание"
+msgstr ":doc:`explanation` — обсуждение, помогающее понять предмет"
 
 #: ../../source/application.rst:29
 msgid ""
@@ -107,14 +105,14 @@ msgid ""
 "execution. Once you've made your first start, the tools and methods outlined"
 " here will help smooth your way."
 msgstr ""
-"Diátaxis предписывает принципы, которыми руководствуются в действиях. Это "
-"выражается в особых способах работы, что влияет на процесс документирования "
-"и его исполнение. Как только вы сделаете свой первый старт, описанные здесь "
-"инструменты и методы помогут вам облегчить ваш путь."
+"Diátaxis задаёт принципы, которые направляют действия. Из них следуют "
+"конкретные способы работы, влияющие на организацию и выполнение работы над "
+"документацией. После первых шагов описанные здесь инструменты и методы помогут "
+"вам двигаться дальше."
 
 #: ../../source/application.rst:31
 msgid ":doc:`compass` - a simple tool for direction-finding"
-msgstr ":doc:`compass` — простой инструмент для пеленгации"
+msgstr ":doc:`compass` — простой инструмент для выбора направления"
 
 #: ../../source/application.rst:32
 msgid ":doc:`Workflow <how-to-use-diataxis>` in Diátaxis"

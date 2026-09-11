@@ -3,13 +3,12 @@
 # This file is distributed under the same license as the Diátaxis package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Diátaxis\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-09-10 23:41+0300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2026-09-11 00:00+0300\n"
 "Last-Translator: Danil Pismenny <danil@pismenny.ru>\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
@@ -29,24 +28,24 @@ msgstr "6 августа 2026"
 
 #: ../../source/news.rst:7
 msgid "Added an atom feed, https://diataxis.fr/atom.xml."
-msgstr "Добавлен атомный корм https://diataxis.fr/atom.xml."
+msgstr "Добавлена Atom-лента: https://diataxis.fr/atom.xml."
 
 #: ../../source/news.rst:-1
 msgid "4 August 2026"
-msgstr "4 августа 2026 г."
+msgstr "4 августа 2026"
 
 #: ../../source/news.rst:12
 msgid ""
 "`Diátaxis is now available in Polish <https://diataxis.fr/pl>`_, courtesy of"
 " the translation efforts of `Piotr Nawrot <https://piotrnawrot.com/>`_."
 msgstr ""
-"`Diátaxis теперь доступен на польском языке <https://diataxis.fr/pl>`_, "
-"любезно предоставлен переводами `Петр Наврот <https://piotrnawrot.com/>`_."
+"`Появился польский перевод Diátaxis <https://diataxis.fr/pl>`_ — благодаря "
+"работе `Пётра Наврота <https://piotrnawrot.com/>`_."
 
 #: ../../source/news.rst:14
 msgid "Other translations are in progress."
-msgstr "Другие переводы продолжаются."
+msgstr "Продолжается работа над переводами на другие языки."
 
 #: ../../source/news.rst:16
 msgid ":doc:`More information about translating Diátaxis <translation>`"
-msgstr ":doc:`Больше информации о переводе Диатаксиса <translation>`"
+msgstr ":doc:`Подробнее о переводе Diátaxis <translation>`"

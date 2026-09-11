@@ -3,13 +3,12 @@
 # This file is distributed under the same license as the Diátaxis package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Diátaxis\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-08-01 12:29+0200\n"
-"PO-Revision-Date: 2026-07-06 20:18+0000\n"
+"PO-Revision-Date: 2026-09-11 00:00+0300\n"
 "Last-Translator: Danil Pismenny <danil@pismenny.ru>\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
@@ -23,20 +22,20 @@ msgid ""
 "The best way to get started with Diátaxis is by applying it to documentation"
 " problems."
 msgstr ""
-"Лучший способ начать работу с Diátaxis — применить его для решения проблем с"
-" документацией."
+"Лучший способ начать работу с Diátaxis — применить его к конкретной проблеме "
+"с документацией."
 
 #: ../../source/start-here.rst:7
 msgid "Start here - Diátaxis in five minutes"
-msgstr "Начните здесь - Диатаксис через пять минут"
+msgstr "Начните здесь — Diátaxis за пять минут"
 
 #: ../../source/start-here.rst:11
 msgid ""
 "Treat this website as a handbook or a toolbox that you make use of when you "
 "need it."
 msgstr ""
-"Относитесь к этому сайту как к справочнику или набору инструментов, которые "
-"вы используете, когда вам это нужно."
+"Используйте этот сайт как справочник или набор инструментов: обращайтесь к "
+"нему по мере необходимости."
 
 #: ../../source/start-here.rst:13
 msgid ""
@@ -45,10 +44,9 @@ msgid ""
 " best way to get started with Diátaxis is by applying it** - to something, "
 "however small."
 msgstr ""
-"Вам не нужно читать все на этом сайте, чтобы понять Диатаксис или начать "
-"использовать его на практике. На самом деле, я рекомендую вам этого не "
-"делать. **Лучший способ начать работу с Diátaxis - это применить его.** — к "
-"чему-то, пусть и незначительному."
+"Не нужно читать весь сайт, чтобы понять Diátaxis или начать пользоваться им "
+"на практике. Более того, я советую этого не делать. **Лучший способ начать "
+"работу с Diátaxis — применить его** к чему-нибудь, пусть даже совсем небольшому."
 
 #: ../../source/start-here.rst:15
 msgid ""
@@ -56,14 +54,13 @@ msgid ""
 "depth material; refer to that when you need it - when you're actually at "
 "work, or reflecting on the documentation problems you have encountered."
 msgstr ""
-"Прочитайте эту страницу для краткого праймера. Каждый раздел содержит ссылки"
-" на более глубокий материал; обратитесь к нему, когда вам это нужно - когда "
-"вы на самом деле на работе или размышляете о проблемах с документацией, с "
-"которыми вы столкнулись."
+"Прочитайте эту страницу как краткое введение. В каждом разделе есть ссылки на "
+"более подробные материалы — обращайтесь к ним по мере необходимости, когда "
+"работаете или обдумываете встретившиеся проблемы с документацией."
 
 #: ../../source/start-here.rst:20
 msgid "The four kinds of documentation"
-msgstr "Четыре вида документации"
+msgstr "Четыре типа документации"
 
 #: ../../source/start-here.rst:22
 msgid ""
@@ -72,10 +69,10 @@ msgid ""
 " are: *tutorials*, *how-to guides*, *reference* and *explanation*. Each has "
 "a different purpose, and needs to be written in a different way."
 msgstr ""
-"Основная идея Diátaxis заключается в том, что существует четыре основных "
-"типа документации, которые отвечают четырем различным потребностям. Четыре "
-"типа: *учебники*, *руководство*, *ссылка* и *объяснение*. Каждый из них "
-"имеет свою цель и должен быть написан по-разному."
+"Основная идея Diátaxis: существуют четыре принципиально разных типа "
+"документации, отвечающих четырём разным потребностям. Это *учебные "
+"руководства*, *практические руководства*, *справочник* и *объяснения*. У "
+"каждого типа своё назначение и свой способ изложения."
 
 #: ../../source/start-here.rst:26
 msgid "Tutorials"
@@ -83,15 +80,15 @@ msgstr "Учебные руководства"
 
 #: ../../source/start-here.rst:30
 msgid ":ref:`Tutorials in more detail <tutorials>`"
-msgstr ":ref:`Учебники более подробно <tutorials>`"
+msgstr ":ref:`Подробнее об учебных руководствах <tutorials>`"
 
 #: ../../source/start-here.rst:31
 msgid ""
 ":ref:`Why tutorials are completely different from how-to guides <tutorials-"
 "how-to>`"
 msgstr ""
-":ref:`Почему учебники полностью отличаются от путеводителей <tutorials-how-"
-"to>`"
+":ref:`Почему учебные руководства принципиально отличаются от практических "
+"руководств <tutorials-how-to>`"
 
 #: ../../source/start-here.rst:33
 msgid ""
@@ -101,11 +98,11 @@ msgid ""
 "around an encounter that the learner can make sense of, in which the "
 "instructor is responsible for the learner's safety and success."
 msgstr ""
-"**Учебник - это урок**, который берет студента за руку через опыт обучения. "
-"Учебник всегда *практический*: пользователь *делать* что-то, под "
-"руководством инструктора. Учебник разработан вокруг встречи, которую "
-"учащийся может осмыслить, в которой инструктор отвечает за безопасность и "
-"успех учащегося."
+"**Учебное руководство — это урок**, который шаг за шагом проводит ученика "
+"через учебный опыт. Оно всегда *практическое*: пользователь что-то *делает* "
+"под руководством наставника. Учебное руководство строится вокруг понятной "
+"ученику практической ситуации, в которой наставник отвечает за его "
+"безопасность и успех."
 
 #: ../../source/start-here.rst:35
 msgid ""
@@ -113,17 +110,17 @@ msgid ""
 "is to develop skills and confidence in the student, not to get from A to B. "
 "A software example could be: *Let's create a simple game in Python*."
 msgstr ""
-"Урок вождения является хорошим примером учебника. Целью урока является "
-"развитие навыков и уверенности в ученике, а не переход от А к Б. Примером "
-"программного обеспечения может быть *Создаем простую игру на Python*."
+"Урок вождения — хороший пример учебного руководства. Его цель — развить у "
+"ученика навыки и уверенность, а не просто добраться из точки А в точку Б. "
+"Пример из разработки программ: *Создадим простую игру на Python*."
 
 #: ../../source/start-here.rst:37
 msgid ""
 "*The user will learn through what they do* - not because someone has tried "
 "to teach them."
 msgstr ""
-"*Пользователь узнает, что он делает* — не потому, что кто-то пытался их "
-"научить."
+"*Пользователь учится благодаря тому, что делает*, а не потому, что кто-то "
+"пытается его учить."
 
 #: ../../source/start-here.rst:39
 msgid ""
@@ -132,10 +129,9 @@ msgid ""
 "mistakes. The instructor must somehow find a way to be present through "
 "written instruction alone."
 msgstr ""
-"В документации особая трудность заключается в том, что инструктор обречен на"
-" отсутствие, а не на то, чтобы следить за учеником и исправлять его ошибки. "
-"Инструктор должен каким-то образом найти способ присутствовать только через "
-"письменное обучение."
+"Особая трудность документации в том, что наставник неизбежно отсутствует: он "
+"не может наблюдать за учеником и исправлять его ошибки. Наставнику приходится "
+"находить способ присутствовать посредством одних лишь письменных указаний."
 
 #: ../../source/start-here.rst:43
 msgid "How-to guides"
@@ -143,16 +139,16 @@ msgstr "Практические руководства"
 
 #: ../../source/start-here.rst:47
 msgid ":ref:`How-to guides in more detail <how-to>`"
-msgstr ":ref:`Как управлять более подробно <how-to>`"
+msgstr ":ref:`Подробнее о практических руководствах <how-to>`"
 
 #: ../../source/start-here.rst:49
 msgid ""
 "**A how-to guide addresses a real-world goal or problem**, by providing "
 "practical directions to help the user who is in that situation."
 msgstr ""
-"**Практическое руководство посвящено реальной цели или проблеме.**, "
-"предоставляя практические инструкции, которые помогут пользователю, "
-"оказавшемуся в такой ситуации."
+"**Практическое руководство помогает достичь реальной цели или решить "
+"проблему**: оно даёт конкретные указания пользователю, оказавшемуся в "
+"соответствующей ситуации."
 
 #: ../../source/start-here.rst:51
 msgid ""
@@ -160,10 +156,9 @@ msgid ""
 "to be able to use the guide to help them get their work done. In contrast to"
 " a tutorial, a how-to guide is concerned with *work* rather than *study*."
 msgstr ""
-"Руководство всегда обращается к уже компетентному пользователю, который, как"
-" ожидается, сможет использовать руководство, чтобы помочь им выполнить свою "
-"работу. В отличие от учебника, руководство о том, как обращаться с *работа*,"
-" а не *исследование*."
+"Практическое руководство всегда обращено к уже компетентному пользователю: "
+"предполагается, что с его помощью он сможет выполнить свою работу. В отличие "
+"от учебного руководства, практическое посвящено *работе*, а не *учёбе*."
 
 #: ../../source/start-here.rst:53
 msgid ""
@@ -171,9 +166,9 @@ msgid ""
 "picture photography) or *How to configure frame profiling* (in software). Or"
 " even: *Troubleshooting deployment problems*."
 msgstr ""
-"Путеводителем может быть: *Как хранить пленку из нитрата целлюлозы* (в "
-"киносъемке) или *Как настроить frame profiling* (в программном обеспечении)."
-" Или даже: *Проблемы с развертыванием*."
+"Примеры практических руководств: *Как хранить плёнку на основе нитрата "
+"целлюлозы* (в кинематографии), *Как настроить профилирование кадров* (в "
+"программном обеспечении) или даже *Устранение неполадок при развёртывании*."
 
 #: ../../source/start-here.rst:57
 msgid "Reference"
@@ -181,7 +176,7 @@ msgstr "Справочник"
 
 #: ../../source/start-here.rst:61
 msgid ":ref:`Reference in more detail <reference>`"
-msgstr ":ref:`Ссылка более подробно <reference>`"
+msgstr ":ref:`Подробнее о справочнике <reference>`"
 
 #: ../../source/start-here.rst:63
 msgid ""
@@ -190,11 +185,10 @@ msgid ""
 "information, free of distraction and interpretation. They contain "
 "*propositional or theoretical knowledge*, not guides to action."
 msgstr ""
-"**Справочные руководства содержат техническое описание** - факты, которые "
-"нужны пользователю для того, чтобы делать вещи правильно: точная, полная, "
-"достоверная информация, свободная от отвлекающих факторов и интерпретации. "
-"Они содержат *Пропозициональные или теоретические знания*, а не руководства "
-"к действию."
+"**Справочные материалы содержат техническое описание** — факты, необходимые "
+"пользователю для правильных действий: точные, полные и надёжные сведения без "
+"отвлекающих подробностей и интерпретаций. Это *пропозициональное или "
+"теоретическое знание*, а не указания к действию."
 
 #: ../../source/start-here.rst:65
 msgid ""
@@ -202,9 +196,9 @@ msgid ""
 "*work*, and it's up to the user to be sufficiently competent to interpret "
 "and use it correctly."
 msgstr ""
-"Подобно практическому руководству, справочная документация служит "
-"пользователю, находящемуся по адресу *работа*, и пользователь должен быть "
-"достаточно компетентным, чтобы правильно ее интерпретировать и использовать."
+"Как и практическое руководство, справочная документация нужна пользователю во "
+"время *работы*. Предполагается, что он достаточно компетентен, чтобы правильно "
+"её истолковать и применить."
 
 #: ../../source/start-here.rst:67
 msgid ""
@@ -212,9 +206,9 @@ msgid ""
 "doing. A marine chart could be used by a ship's navigator to plot a course, "
 "but equally well by an investigating judge."
 msgstr ""
-"Справочный материал *.* Это не касается того, что делает пользователь. "
-"Морская карта может быть использована судоходным штурманом для составления "
-"плана курса, но также хорошо следственным судьей."
+"*Справочный материал нейтрален.* Он не зависит от того, что делает "
+"пользователь. Одну и ту же морскую карту может использовать и штурман корабля, "
+"прокладывающий курс, и судья, ведущий расследование."
 
 #: ../../source/start-here.rst:69
 msgid ""
@@ -223,10 +217,10 @@ msgid ""
 " does. If a method is part of a class that belongs to a certain module, then"
 " we should expect to see the same relationship in the documentation too."
 msgstr ""
-"Там, где это возможно, архитектура справочной документации должна отражать "
-"структуру или архитектуру того, что она описывает. Если метод является "
-"частью класса, который относится к определенному модулю, то следует ожидать,"
-" что такая же связь будет и в документации."
+"По возможности архитектура справочной документации должна, подобно карте, "
+"отражать структуру или архитектуру описываемого объекта. Если метод входит в "
+"класс, а класс — в определённый модуль, та же связь должна быть видна и в "
+"документации."
 
 #: ../../source/start-here.rst:73
 msgid "Explanation"
@@ -234,14 +228,14 @@ msgstr "Объяснения"
 
 #: ../../source/start-here.rst:77
 msgid ":ref:`Explanation in more detail <explanation>`"
-msgstr ":ref:`Объяснение более подробно <explanation>`"
+msgstr ":ref:`Подробнее об объяснениях <explanation>`"
 
 #: ../../source/start-here.rst:78
 msgid ""
 ":ref:`Understanding the difference between reference and explanation "
 "<reference-explanation>`"
 msgstr ""
-":ref:`Понимание разницы между ссылкой и объяснением <reference-explanation>`"
+":ref:`Как различать справочник и объяснения <reference-explanation>`"
 
 #: ../../source/start-here.rst:81
 msgid ""
@@ -250,16 +244,17 @@ msgid ""
 "together, and helps answer the question *why?*"
 msgstr ""
 "**Объяснения дают контекст и необходимые предпосылки.** Они помогают понять "
-"предмет и увидеть его в более широкой картине. Объяснение связывает факты и "
-"помогает ответить на вопрос *почему?*"
+"предмет и увидеть его место в более широкой картине. Объяснения связывают "
+"факты и помогают ответить на вопрос *почему?*"
 
 #: ../../source/start-here.rst:83
 msgid ""
 "Explanation often needs to circle around its subject, and approach it from "
 "different directions. It can contain opinions and take perspectives."
 msgstr ""
-"Объяснение часто должно вращаться вокруг предмета и приближаться к нему с "
-"разных сторон. Он может содержать мнения и принимать перспективы."
+"В объяснении нередко приходится рассматривать предмет с разных сторон и "
+"подходить к нему с разных направлений. Здесь допустимы мнения и разные точки "
+"зрения."
 
 #: ../../source/start-here.rst:85
 msgid ""
@@ -267,9 +262,9 @@ msgid ""
 "rather than action. However its purpose is to serve the user's study - as "
 "tutorials do - and not their work."
 msgstr ""
-"Как и ссылка, объяснение относится к области пропозиционального знания, а не"
-" к действию. Однако его цель состоит в том, чтобы служить изучению "
-"пользователя, а не его работе."
+"Подобно справочнику, объяснения относятся к области пропозиционального знания, "
+"а не действия. Однако, как и учебные руководства, они помогают пользователю "
+"учиться, а не работать."
 
 #: ../../source/start-here.rst:87
 msgid ""
@@ -280,28 +275,27 @@ msgid ""
 "link to an in-depth article (*Secure communication using HTTPS encryption*) "
 "for when the user is ready for it."
 msgstr ""
-"Часто авторы учебников, которые обеспокоены тем, что их ученики должны "
-"*знать*, перегружают свои учебники отвлекающими и бесполезными объяснениями."
-" Было бы гораздо полезнее дать учащемуся самое минимальное объяснение "
-"(«Здесь мы используем HTTPS, потому что это безопаснее»), а затем ссылку на "
-"подробную статью (*Безопасная связь с помощью HTTPS-шифрования*) для того, "
-"когда пользователь готов к этому."
+"Авторы учебных руководств, желая, чтобы ученики что-то *знали*, нередко "
+"перегружают текст отвлекающими и бесполезными объяснениями. Полезнее дать "
+"ученику лишь необходимый минимум («Здесь мы используем HTTPS, потому что так "
+"безопаснее»), а для тех, кто будет готов углубиться в тему, добавить ссылку на "
+"подробную статью (*Безопасная связь с шифрованием HTTPS*)."
 
 #: ../../source/start-here.rst:93
 msgid "The Diátaxis map"
-msgstr "Карта Диатаксиса"
+msgstr "Карта Diátaxis"
 
 #: ../../source/start-here.rst:95
 msgid ""
 "The four kinds of documentation and the relationships between them can be "
 "summarised in the Diátaxis map."
 msgstr ""
-"Четыре вида документации и связи между ними можно суммировать на карте "
+"Четыре типа документации и связи между ними можно представить на карте "
 "Diátaxis."
 
 #: ../../source/start-here.rst:99
 msgid ":ref:`The map in more detail <map>`"
-msgstr ":ref:`Карта более подробно <map>`"
+msgstr ":ref:`Подробнее о карте <map>`"
 
 #: ../../source/start-here.rst:101
 msgid ""
@@ -309,17 +303,17 @@ msgid ""
 "arrangement of them. It shows how the four kinds of documentation are "
 "related to each other, and distinct from each other."
 msgstr ""
-"Диатаксис — это не просто список из четырех разных вещей, а концептуальное "
-"их расположение. Он показывает, как четыре вида документации связаны друг с "
-"другом и отличаются друг от друга."
+"Diátaxis — не просто список из четырёх элементов, а их концептуальная система. "
+"Карта показывает, как четыре типа документации связаны друг с другом и чем "
+"отличаются."
 
 #: ../../source/start-here.rst:103
 msgid ""
 "Crossing or blurring the boundaries described in the map is at the heart of "
 "a vast number of problems in documentation."
 msgstr ""
-"Пересечение или размывание границ, описанных на карте, лежит в основе "
-"огромного количества проблем в документации."
+"Огромное число проблем с документацией возникает из-за пересечения или "
+"размывания обозначенных на карте границ."
 
 #: ../../source/start-here.rst:105
 msgid "Diátaxis"
@@ -331,20 +325,20 @@ msgstr "Компас Diátaxis"
 
 #: ../../source/start-here.rst:114
 msgid "As you can see from the map:"
-msgstr "Как видно из карты:"
+msgstr "Как видно на карте:"
 
 #: ../../source/start-here.rst:116
 msgid ""
 "tutorials and how-to guides are concerned with what the user *does* "
 "(**action**)"
 msgstr ""
-"Учебники и практические руководства касаются того, что пользователь *делать*"
-" (**действие**)"
+"учебные и практические руководства относятся к тому, что пользователь "
+"*делает* (**действие**)"
 
 #: ../../source/start-here.rst:117
 msgid ""
 "reference and explanation are about what the user *knows* (**cognition**)"
-msgstr "ссылка и объяснение о том, что пользователь *знать* (**познание**)"
+msgstr "справочник и объяснения относятся к тому, что пользователь *знает* (**познание**)"
 
 #: ../../source/start-here.rst:119
 msgid "On the other hand:"
@@ -355,16 +349,16 @@ msgid ""
 "tutorials and explanation serve the *acquisition* of skill (the user's "
 "**study**)"
 msgstr ""
-"Учебники и объяснения служат *приобретение* навыков (пользователь "
-"**исследование**)"
+"учебные руководства и объяснения служат *освоению* навыка (**учёбе** "
+"пользователя)"
 
 #: ../../source/start-here.rst:122
 msgid ""
 "how-to guides and reference serve the *application* of skill (the user's "
 "**work**)"
 msgstr ""
-"Руководящие указания и ссылки служат *приложение* навыков (пользователь "
-"**работа**)"
+"практические руководства и справочник служат *применению* навыка (**работе** "
+"пользователя)"
 
 #: ../../source/start-here.rst:124
 msgid ""
@@ -372,13 +366,13 @@ msgid ""
 "action you need a different sort of tool, in this case, a kind of Diátaxis "
 "compass."
 msgstr ""
-"Но карта не говорит вам, что *делать* - это ссылка. Чтобы направлять свои "
-"действия, вам нужен другой инструмент, в данном случае, своего рода компас "
-"Диатаксиса."
+"Но карта не говорит, что *делать*: сама она относится к справочному типу. Чтобы "
+"направлять действия, нужен другой инструмент — в данном случае своего рода "
+"компас Diátaxis."
 
 #: ../../source/start-here.rst:128
 msgid ":ref:`The compass in more detail <compass>`"
-msgstr ":ref:`Компас более подробно <compass>`"
+msgstr ":ref:`Подробнее о компасе <compass>`"
 
 #: ../../source/start-here.rst:130
 msgid "The compass is useful in two different ways."
@@ -389,17 +383,16 @@ msgid ""
 "When creating documentation, it helps clarify your own intentions, and helps"
 " make sure you're actually doing what you think you're doing."
 msgstr ""
-"При создании документации это помогает прояснить ваши собственные намерения "
-"и убедиться, что вы действительно делаете то, что, по вашему мнению, "
-"делаете."
+"При создании документации он помогает прояснить собственные намерения и "
+"убедиться, что вы действительно делаете то, что намеревались."
 
 #: ../../source/start-here.rst:134
 msgid ""
 "When looking at documentation, it helps understand what's going on in it, "
 "and makes problems stand out."
 msgstr ""
-"Просмотр документации помогает понять, что в ней происходит, и выявляет "
-"проблемы."
+"При анализе документации он помогает понять, что в ней происходит, и делает "
+"проблемы заметнее."
 
 #: ../../source/start-here.rst:136
 msgid ""
@@ -407,60 +400,60 @@ msgid ""
 "work puzzling over a documentation problem it's what will help you move "
 "forward."
 msgstr ""
-"Компас не так привлекателен, как карта, но когда вы на работе ломаете голову"
-" над проблемой с документацией, именно он поможет вам двигаться вперед."
+"Компас не так эффектен, как карта, но, когда вы ломаете голову над проблемой с "
+"документацией, именно он помогает двигаться дальше."
 
 #: ../../source/start-here.rst:144
 msgid "If the content..."
-msgstr "Если контент..."
+msgstr "Если материал..."
 
 #: ../../source/start-here.rst:145
 msgid "...and serves the user's..."
-msgstr "...и обслуживает пользователя..."
+msgstr "...и отвечает потребности пользователя в..."
 
 #: ../../source/start-here.rst:146
 msgid "...then it must belong to..."
-msgstr "...тогда оно должно принадлежать..."
+msgstr "...то он относится к..."
 
 #: ../../source/start-here.rst:147 ../../source/start-here.rst:150
 msgid "informs action"
-msgstr "информирует о действиях"
+msgstr "даёт информацию для действия"
 
 #: ../../source/start-here.rst:148 ../../source/start-here.rst:157
 msgid "acquisition of skill"
-msgstr "приобретение навыков"
+msgstr "освоении навыка"
 
 #: ../../source/start-here.rst:149
 msgid "a tutorial"
-msgstr "учебник"
+msgstr "учебному руководству"
 
 #: ../../source/start-here.rst:151 ../../source/start-here.rst:154
 msgid "application of skill"
-msgstr "применение навыков"
+msgstr "применении навыка"
 
 #: ../../source/start-here.rst:152
 msgid "a how-to guide"
-msgstr "практическое руководство"
+msgstr "практическому руководству"
 
 #: ../../source/start-here.rst:153 ../../source/start-here.rst:156
 msgid "informs cognition"
-msgstr "информирует познание"
+msgstr "даёт информацию для познания"
 
 #: ../../source/start-here.rst:155
 msgid "reference"
-msgstr "ссылка"
+msgstr "справочнику"
 
 #: ../../source/start-here.rst:158
 msgid "explanation"
-msgstr "объяснение"
+msgstr "объяснениям"
 
 #: ../../source/start-here.rst:165
 msgid "Working"
-msgstr "Работающий"
+msgstr "Работа"
 
 #: ../../source/start-here.rst:167
 msgid "There is a very simple workflow for Diátaxis."
-msgstr "Для Diátaxis существует очень простой рабочий процесс."
+msgstr "У Diátaxis очень простой рабочий процесс."
 
 #: ../../source/start-here.rst:171
 msgid ":ref:`how-to-use-diataxis`"
@@ -471,24 +464,24 @@ msgid ""
 "Consider what you see in the documentation, in front of you right now (which"
 " might be literally nothing, if you haven't started yet)."
 msgstr ""
-"Подумайте о том, что вы видите в документации, лежащей перед вами прямо "
-"сейчас (что может быть буквально ничем, если вы еще не начали)."
+"Рассмотрите то, что прямо сейчас перед вами в документации (если вы ещё не "
+"начали работу, перед вами может не быть вообще ничего)."
 
 #: ../../source/start-here.rst:175
 msgid "Ask: *is there any way in which it could be improved?*"
-msgstr "Спросите: *есть ли способ улучшить его?*"
+msgstr "Спросите себя: *можно ли это как-нибудь улучшить?*"
 
 #: ../../source/start-here.rst:177
 msgid ""
 "Decide on *one* thing you could do to it right now, however small, that "
 "would improve it."
 msgstr ""
-"Решите, *один*, что вы могли бы сделать с ним прямо сейчас, пусть даже "
-"незначительное, что улучшило бы его."
+"Выберите *одно* изменение, которое можно сделать прямо сейчас и которое, пусть "
+"даже совсем немного, улучшит документацию."
 
 #: ../../source/start-here.rst:179
 msgid "Do that thing."
-msgstr "Сделай это."
+msgstr "Сделайте это."
 
 #: ../../source/start-here.rst:181
 msgid "And then repeat."
@@ -500,7 +493,7 @@ msgstr "Вот и все."
 
 #: ../../source/start-here.rst:189
 msgid "Do what you like"
-msgstr "Делай то, что тебе нравится"
+msgstr "Используйте как хотите"
 
 #: ../../source/start-here.rst:191
 msgid ""
@@ -510,11 +503,11 @@ msgid ""
 "documentation. If you find one idea or insight in it that seems to be "
 "worthwhile, help yourself to that."
 msgstr ""
-"С Diátaxis вы можете делать все, что захотите. В это не обязательно верить и"
-" экзамена нет. Это вполне прагматичный подход. Я думаю, что это *истинный*, "
-"но важно то, что это действительно помогает людям создавать лучшую "
-"документацию. Если вы найдете в нем одну идею или понимание, которое "
-"покажется вам стоящим, помогите себе в этом."
+"Вы можете использовать Diátaxis как хотите. Необязательно верить в него, и "
+"экзамена не будет. Это исключительно прагматический подход. Я считаю его "
+"*верным*, но важно прежде всего то, что он действительно помогает людям "
+"создавать более качественную документацию. Если найдёте в нём ценную идею или "
+"наблюдение, берите их на вооружение."
 
 #: ../../source/start-here.rst:193
 msgid ""
@@ -522,9 +515,9 @@ msgid ""
 "need to subscribe to it, or even read about it. Diátaxis doesn't require a "
 "commitment to pursue it to a final end."
 msgstr ""
-"Существует тщательно разработанная теория Diátaxis, но вам не обязательно "
-"подписываться на нее или даже читать о ней. Diátaxis не требует обязательств"
-" довести его до конца."
+"Вокруг Diátaxis выстроена подробно разработанная теория, но вам необязательно "
+"с ней соглашаться или даже читать о ней. Diátaxis не обязывает пройти весь "
+"путь до конца."
 
 #: ../../source/start-here.rst:195
 msgid ""
@@ -533,23 +526,21 @@ msgid ""
 "you will find is that each thing you do will give you a clue as to the next "
 "thing to do - you only need to keep doing them.)"
 msgstr ""
-"Вы можете сделать только одну вещь прямо сейчас, и даже если вы больше "
-"ничего не будете делать в дальнейшем, вы, по крайней мере, добьетесь этого "
-"одного улучшения. (На практике вы обнаружите, что каждое действие, которое "
-"вы делаете, дает вам подсказку о том, что делать дальше — вам нужно только "
-"продолжать это делать.)"
+"Прямо сейчас можно сделать всего одно изменение. Даже если после этого вы "
+"никогда больше ничего не предпримете, документация всё равно станет лучше хотя "
+"бы в одном месте. (На практике каждое действие будет подсказывать следующее — "
+"останется лишь продолжать.)"
 
 #: ../../source/start-here.rst:199
 msgid "Get started"
-msgstr "Начать"
+msgstr "Приступайте"
 
 #: ../../source/start-here.rst:201
 msgid ""
 "At this point, you have read everything you need to get started with "
 "Diátaxis."
 msgstr ""
-"На данный момент вы прочитали все, что вам нужно для начала работы с "
-"Diátaxis."
+"Теперь вы прочитали всё необходимое, чтобы начать работать с Diátaxis."
 
 #: ../../source/start-here.rst:203
 msgid ""
@@ -557,7 +548,6 @@ msgid ""
 "will get the most value from the guidance in this website when you turn to "
 "it with a problem or a question*. That's when it comes alive."
 msgstr ""
-"Если хотите, вы можете прочитать больше, и в конечном итоге вам, вероятно, "
-"следует это сделать, но *вы получите максимальную пользу от рекомендаций на "
-"этом веб-сайте, когда обратитесь к нему с проблемой или вопросом.*. Вот "
-"тогда оно оживает."
+"Если хотите, читайте дальше — со временем это, вероятно, стоит сделать. Но "
+"*рекомендации сайта принесут больше всего пользы, когда вы обратитесь к ним с "
+"конкретной проблемой или вопросом*. Именно тогда Diátaxis оживает."

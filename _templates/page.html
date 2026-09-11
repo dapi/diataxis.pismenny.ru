@@ -11,7 +11,7 @@
   {% endblock %}
 
   {% block content %}
-  <nav class="language-switcher" aria-label="Language">
+  <nav class="language-switcher" aria-label="{% if language == 'ru' %}Язык{% else %}Language{% endif %}">
     {% for code, label in language_switcher %}
     {%- if code == default_language -%}
       {%- set lang_prefix = '' -%}
@@ -63,9 +63,9 @@
   </div>
   <div class="translation-attribution">
     {% if language == "ru" %}
-      Неофициальный машинный русский перевод · редакторская вычитка продолжается ·
-      <a href="https://diataxis.fr/">оригинала Diátaxis</a>,
-      созданного <a href="https://vurt.org/">Daniele Procida</a>.
+      Неофициальный русский перевод · Автор
+      <a href="https://diataxis.fr/">оригинала Diátaxis</a> —
+      <a href="https://vurt.org/">Даниэле Прочида</a>.
       <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> ·
       <a href="https://github.com/dapi/diataxis.pismenny.ru">исходники перевода</a> ·
       <a href="https://pismenny.ru/">Данил Письменный</a>
