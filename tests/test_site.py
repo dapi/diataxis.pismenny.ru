@@ -37,6 +37,20 @@ assert_contains(
 )
 assert (SITE / "_images" / "diataxis.ru.png").is_file()
 
+localized_overviews = {
+    "tutorials": "overview-tutorials.ru.png",
+    "how-to-guides": "overview-how-to.ru.png",
+    "explanation": "overview-explanation.ru.png",
+    "reference": "overview-reference.ru.png",
+}
+for page_name, image_name in localized_overviews.items():
+    assert_contains(SITE / page_name / "index.html", [f'src="../_images/{image_name}"'])
+    assert (SITE / "_images" / image_name).is_file()
+    assert_contains(
+        SITE / "en" / page_name / "index.html",
+        [f'src="../_images/{image_name.removesuffix(".ru.png")}.png"'],
+    )
+
 for page in root_pages:
     text = page.read_text(encoding="utf-8")
     assert "ZXQPH" not in text, f"unrestored placeholder in {page}"
